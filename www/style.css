@@ -1,0 +1,92 @@
+:root {
+  --fondo: #10131a;
+  --panel: #1b1f2a;
+  --dorado: #d4af37;
+  --texto: #f1f1f1;
+  --texto-tenue: #9aa0ad;
+  --rojo: #c0392b;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: "Segoe UI", Arial, sans-serif;
+  background: radial-gradient(circle at top, #1b1f2a, #10131a);
+  color: var(--texto);
+  min-height: 100vh;
+}
+
+.contenedor {
+  max-width: 480px;
+  margin: 0 auto;
+  padding: 24px 16px 60px;
+}
+
+.titulo-app {
+  text-align: center;
+  font-size: 28px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  color: var(--dorado);
+  text-shadow: 0 0 12px rgba(212, 175, 55, 0.5);
+  margin: 24px 0 32px;
+}
+
+.panel {
+  background: var(--panel);
+  border: 1px solid rgba(212, 175, 55, 0.25);
+  border-radius: 14px;
+  padding: 20px;
+  margin-bottom: 16px;
+}
+
+input, select {
+  width: 100%;
+  padding: 12px;
+  margin: 6px 0 14px;
+  border-radius: 8px;
+  border: 1px solid #333a4a;
+  background: #0f1219;
+  color: var(--texto);
+  font-size: 16px;
+}
+
+button {
+  width: 100%;
+  padding: 13px;
+  border: none;
+  border-radius: 8px;
+  background: var(--dorado);
+  color: #1b1f2a;
+  font-weight: bold;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+button.secundario {
+  background: transparent;
+  border: 1px solid var(--dorado);
+  color: var(--dorado);
+}
+
+.mensaje-error {
+  color: var(--rojo);
+  font-size: 14px;
+  margin-top: 8px;
+}
+
+.carta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 12px;
+  background: #0f1219;
+  border-radius: 8px;
+  margin-bottom: 8px;
+}
+
+.carta .stats {
+  color: var(--texto-tenue);
+  font-size: 13px;
+}

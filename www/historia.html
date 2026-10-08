@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<title>Historia - Duelo FM</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<div class="contenedor">
+  <div class="titulo-app">Modo Historia</div>
+  <div id="listaArcos"></div>
+  <button class="secundario" onclick="location.href='coleccion.html'">Ver mi coleccion / armar mazo</button>
+</div>
+
+<script type="module">
+import { cargarJSON } from "./utils.js";
+
+const uid = localStorage.getItem("ygo_uid");
+if (!uid) window.location.href = "index.html";
+
+const datos = await cargarJSON("data/duelistas_historia.json");
+const contenedor = document.getElementById("listaArcos");
+
+for (const arco of datos.arcos) {
+  const panel = document.createElement("div");
+  panel.className = "panel";
+  const titulo = document.createElement("h3");
+  titulo.textContent = `Arco ${arco.arco}: ${arco.nombre}`;
+  panel.appendChild(titulo);
+
+  for (const duelo of arco.duelos) {
+    const fila = document.createElement("div");
+    fila.className = "carta";
+    fila.innerHTML = `<span>${duelo.rival}</span><span class="stats">${duelo.obligatorio ? "obligatorio" : "opcional"}</span>`;
+    panel.appendChild(fila);
+  }
+  contenedor.appendChild(panel);
+}
+</script>
+</body>
+</html>

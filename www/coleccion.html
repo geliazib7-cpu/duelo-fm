@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<title>Coleccion - Duelo FM</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<div class="contenedor">
+  <div class="titulo-app">Mi coleccion</div>
+  <p style="color:var(--texto-tenue);font-size:14px;">
+    Aqui apareceran las cartas que vayas ganando en la historia.
+    Por ahora, para probar que los datos reales del juego cargan bien,
+    se muestran las primeras cartas de la base de 722.
+  </p>
+  <div id="listaCartas"></div>
+  <button class="secundario" onclick="location.href='historia.html'">Volver a la historia</button>
+</div>
+
+<script type="module">
+import { cargarJSON } from "./utils.js";
+
+const cartas = await cargarJSON("data/cards.json");
+const contenedor = document.getElementById("listaCartas");
+
+for (const c of cartas.slice(0, 15)) {
+  const fila = document.createElement("div");
+  fila.className = "carta";
+  const stats = c.tipo_carta === "Monster Card"
+    ? `${c.tipo_monstruo} - ATK ${c.atk} / DEF ${c.defensa}`
+    : c.tipo_carta;
+  fila.innerHTML = `<span>#${c.numero} ${c.nombre}</span><span class="stats">${stats}</span>`;
+  contenedor.appendChild(fila);
+}
+</script>
+</body>
+</html>
