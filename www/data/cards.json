@@ -1,0 +1,9085 @@
+[
+  {
+    "numero": 1,
+    "nombre": "Blue-eyes White Dragon",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Dragon",
+    "nivel": 8,
+    "atk": 3000,
+    "defensa": 2500,
+    "estrellas_guardianas": [
+      "Sun",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 2,
+    "nombre": "Mystical Elf",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Spellcaster",
+    "nivel": 4,
+    "atk": 800,
+    "defensa": 2000,
+    "estrellas_guardianas": [
+      "Sun",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 3,
+    "nombre": "Hitotsu-me Giant",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Beast-Warrior",
+    "nivel": 4,
+    "atk": 1200,
+    "defensa": 1000,
+    "estrellas_guardianas": [
+      "Moon",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 4,
+    "nombre": "Baby Dragon",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Dragon",
+    "nivel": 3,
+    "atk": 1200,
+    "defensa": 700,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Sun"
+    ]
+  },
+  {
+    "numero": 5,
+    "nombre": "Ryu-kishin",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 3,
+    "atk": 1000,
+    "defensa": 500,
+    "estrellas_guardianas": [
+      "Saturn",
+      "Sun"
+    ]
+  },
+  {
+    "numero": 6,
+    "nombre": "Feral Imp",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 4,
+    "atk": 1300,
+    "defensa": 1400,
+    "estrellas_guardianas": [
+      "Moon",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 7,
+    "nombre": "Winged Dragon 1",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Dragon",
+    "nivel": 4,
+    "atk": 1400,
+    "defensa": 1200,
+    "estrellas_guardianas": [
+      "Saturn",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 8,
+    "nombre": "Mushroom Man",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Plant",
+    "nivel": 2,
+    "atk": 800,
+    "defensa": 600,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Sun"
+    ]
+  },
+  {
+    "numero": 9,
+    "nombre": "Shadow Specter",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Zombie",
+    "nivel": 1,
+    "atk": 500,
+    "defensa": 200,
+    "estrellas_guardianas": [
+      "Moon",
+      "Saturn"
+    ]
+  },
+  {
+    "numero": 10,
+    "nombre": "Blackland Fire Dragon",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Dragon",
+    "nivel": 4,
+    "atk": 1500,
+    "defensa": 800,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 11,
+    "nombre": "Sword Arm of Dragon",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Dinosaur",
+    "nivel": 6,
+    "atk": 1750,
+    "defensa": 2030,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 12,
+    "nombre": "Swamp Battleguard",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 5,
+    "atk": 1800,
+    "defensa": 1500,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 13,
+    "nombre": "Tyhone",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Winged Beast",
+    "nivel": 4,
+    "atk": 1200,
+    "defensa": 1400,
+    "estrellas_guardianas": [
+      "Saturn",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 14,
+    "nombre": "Battle Steer",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Beast-Warrior",
+    "nivel": 5,
+    "atk": 1800,
+    "defensa": 1300,
+    "estrellas_guardianas": [
+      "Moon",
+      "Uranus"
+    ]
+  },
+  {
+    "numero": 15,
+    "nombre": "Flame Swordsman",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 5,
+    "atk": 1800,
+    "defensa": 1600,
+    "estrellas_guardianas": [
+      "Mars",
+      "Sun"
+    ]
+  },
+  {
+    "numero": 16,
+    "nombre": "Time Wizard",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Spellcaster",
+    "nivel": 2,
+    "atk": 500,
+    "defensa": 400,
+    "estrellas_guardianas": [
+      "Venus",
+      "Sun"
+    ]
+  },
+  {
+    "numero": 17,
+    "nombre": "Right Leg of the Forbidden One",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Spellcaster",
+    "nivel": 1,
+    "atk": 200,
+    "defensa": 300,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 18,
+    "nombre": "Left Leg of the Forbidden One",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Spellcaster",
+    "nivel": 1,
+    "atk": 200,
+    "defensa": 300,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Saturn"
+    ]
+  },
+  {
+    "numero": 19,
+    "nombre": "Right Arm of the Forbidden One",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Spellcaster",
+    "nivel": 1,
+    "atk": 200,
+    "defensa": 300,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Uranus"
+    ]
+  },
+  {
+    "numero": 20,
+    "nombre": "Left Arm of the Forbidden One",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Spellcaster",
+    "nivel": 1,
+    "atk": 200,
+    "defensa": 300,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 21,
+    "nombre": "Exodia the Forbidden",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Spellcaster",
+    "nivel": 3,
+    "atk": 1000,
+    "defensa": 1000,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 22,
+    "nombre": "Summoned Skull",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 6,
+    "atk": 2500,
+    "defensa": 1200,
+    "estrellas_guardianas": [
+      "Moon",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 23,
+    "nombre": "The Wicked Worm Beast",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Beast",
+    "nivel": 3,
+    "atk": 1400,
+    "defensa": 700,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 24,
+    "nombre": "Skull Servant",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Zombie",
+    "nivel": 1,
+    "atk": 300,
+    "defensa": 200,
+    "estrellas_guardianas": [
+      "Moon",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 25,
+    "nombre": "Horn Imp",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 4,
+    "atk": 1300,
+    "defensa": 1000,
+    "estrellas_guardianas": [
+      "Moon",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 26,
+    "nombre": "Battle Ox",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Beast-Warrior",
+    "nivel": 4,
+    "atk": 1700,
+    "defensa": 1000,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 27,
+    "nombre": "Beaver Warrior",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Beast-Warrior",
+    "nivel": 4,
+    "atk": 1200,
+    "defensa": 1500,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 28,
+    "nombre": "Rock Ogre Grotto 1",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Rock",
+    "nivel": 3,
+    "atk": 800,
+    "defensa": 1200,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 29,
+    "nombre": "Mountain Warrior",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Beast-Warrior",
+    "nivel": 3,
+    "atk": 600,
+    "defensa": 1000,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 30,
+    "nombre": "Zombie Warrior",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Zombie",
+    "nivel": 3,
+    "atk": 1200,
+    "defensa": 900,
+    "estrellas_guardianas": [
+      "Moon",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 31,
+    "nombre": "Koumori Dragon",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Dragon",
+    "nivel": 4,
+    "atk": 1500,
+    "defensa": 1200,
+    "estrellas_guardianas": [
+      "Moon",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 32,
+    "nombre": "Two-headed King Rex",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Dinosaur",
+    "nivel": 4,
+    "atk": 1600,
+    "defensa": 1200,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 33,
+    "nombre": "Judge Man",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 6,
+    "atk": 2200,
+    "defensa": 1500,
+    "estrellas_guardianas": [
+      "Sun",
+      "Saturn"
+    ]
+  },
+  {
+    "numero": 34,
+    "nombre": "Saggi the Dark Clown",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Spellcaster",
+    "nivel": 3,
+    "atk": 600,
+    "defensa": 1500,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 35,
+    "nombre": "Dark Magician",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Spellcaster",
+    "nivel": 7,
+    "atk": 2500,
+    "defensa": 2100,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 36,
+    "nombre": "The Snake Hair",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Zombie",
+    "nivel": 4,
+    "atk": 1500,
+    "defensa": 1200,
+    "estrellas_guardianas": [
+      "Moon",
+      "Saturn"
+    ]
+  },
+  {
+    "numero": 37,
+    "nombre": "Gaia the Dragon Champion",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Dragon",
+    "nivel": 7,
+    "atk": 2600,
+    "defensa": 2100,
+    "estrellas_guardianas": [
+      "Saturn",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 38,
+    "nombre": "Gaia the Fierce Knight",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 7,
+    "atk": 2300,
+    "defensa": 2100,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 39,
+    "nombre": "Curse of Dragon",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Dragon",
+    "nivel": 5,
+    "atk": 2000,
+    "defensa": 1500,
+    "estrellas_guardianas": [
+      "Saturn",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 40,
+    "nombre": "Dragon Piper",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Pyro",
+    "nivel": 3,
+    "atk": 200,
+    "defensa": 1800,
+    "estrellas_guardianas": [
+      "Mars",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 41,
+    "nombre": "Celtic Guardian",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 4,
+    "atk": 1400,
+    "defensa": 1200,
+    "estrellas_guardianas": [
+      "Sun",
+      "Uranus"
+    ]
+  },
+  {
+    "numero": 42,
+    "nombre": "Illusionist Faceless Mage",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Spellcaster",
+    "nivel": 5,
+    "atk": 1200,
+    "defensa": 2200,
+    "estrellas_guardianas": [
+      "Venus",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 43,
+    "nombre": "Karbonala Warrior",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 4,
+    "atk": 1500,
+    "defensa": 1200,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 44,
+    "nombre": "Rogue Doll",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Spellcaster",
+    "nivel": 4,
+    "atk": 1600,
+    "defensa": 1000,
+    "estrellas_guardianas": [
+      "Sun",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 45,
+    "nombre": "Oscillo Hero 2",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Thunder",
+    "nivel": 3,
+    "atk": 1000,
+    "defensa": 500,
+    "estrellas_guardianas": [
+      "Pluto",
+      "Sun"
+    ]
+  },
+  {
+    "numero": 46,
+    "nombre": "Griffore",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Beast",
+    "nivel": 4,
+    "atk": 1200,
+    "defensa": 1500,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 47,
+    "nombre": "Torike",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Beast",
+    "nivel": 3,
+    "atk": 1200,
+    "defensa": 600,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Sun"
+    ]
+  },
+  {
+    "numero": 48,
+    "nombre": "Sangan",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 3,
+    "atk": 1000,
+    "defensa": 600,
+    "estrellas_guardianas": [
+      "Moon",
+      "Uranus"
+    ]
+  },
+  {
+    "numero": 49,
+    "nombre": "Big Insect",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Insect",
+    "nivel": 4,
+    "atk": 1200,
+    "defensa": 1500,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Uranus"
+    ]
+  },
+  {
+    "numero": 50,
+    "nombre": "Basic Insect",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Insect",
+    "nivel": 2,
+    "atk": 500,
+    "defensa": 700,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 51,
+    "nombre": "Armored Lizard",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Reptile",
+    "nivel": 4,
+    "atk": 1500,
+    "defensa": 1200,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Sun"
+    ]
+  },
+  {
+    "numero": 52,
+    "nombre": "Hercules Beetle",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Insect",
+    "nivel": 5,
+    "atk": 1500,
+    "defensa": 2000,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 53,
+    "nombre": "Killer Needle",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Insect",
+    "nivel": 4,
+    "atk": 1200,
+    "defensa": 1000,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Sun"
+    ]
+  },
+  {
+    "numero": 54,
+    "nombre": "Gokibore",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Insect",
+    "nivel": 4,
+    "atk": 1200,
+    "defensa": 1400,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 55,
+    "nombre": "Giant Flea",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Insect",
+    "nivel": 4,
+    "atk": 1500,
+    "defensa": 1200,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 56,
+    "nombre": "Larvae Moth",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Insect",
+    "nivel": 2,
+    "atk": 500,
+    "defensa": 400,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 57,
+    "nombre": "Great Moth",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Insect",
+    "nivel": 8,
+    "atk": 2600,
+    "defensa": 2500,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Uranus"
+    ]
+  },
+  {
+    "numero": 58,
+    "nombre": "Kuriboh",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 1,
+    "atk": 300,
+    "defensa": 200,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Saturn"
+    ]
+  },
+  {
+    "numero": 59,
+    "nombre": "Mammoth Graveyard",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Dinosaur",
+    "nivel": 3,
+    "atk": 1200,
+    "defensa": 800,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 60,
+    "nombre": "Great White",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fish",
+    "nivel": 4,
+    "atk": 1600,
+    "defensa": 800,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 61,
+    "nombre": "Wolf",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Beast",
+    "nivel": 3,
+    "atk": 1200,
+    "defensa": 800,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 62,
+    "nombre": "Harpie Lady",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Winged Beast",
+    "nivel": 4,
+    "atk": 1300,
+    "defensa": 1400,
+    "estrellas_guardianas": [
+      "Saturn",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 63,
+    "nombre": "Harpie Lady Sisters",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Winged Beast",
+    "nivel": 6,
+    "atk": 1950,
+    "defensa": 2100,
+    "estrellas_guardianas": [
+      "Saturn",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 64,
+    "nombre": "Tiger Axe",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Beast-Warrior",
+    "nivel": 4,
+    "atk": 1300,
+    "defensa": 1100,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 65,
+    "nombre": "Silver Fang",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Beast",
+    "nivel": 3,
+    "atk": 1200,
+    "defensa": 800,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Sun"
+    ]
+  },
+  {
+    "numero": 66,
+    "nombre": "Kojikocy",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 4,
+    "atk": 1500,
+    "defensa": 1200,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 67,
+    "nombre": "Perfectly Ultimate Great Moth",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Insect",
+    "nivel": 8,
+    "atk": 3500,
+    "defensa": 3000,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 68,
+    "nombre": "Garoozis",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Beast-Warrior",
+    "nivel": 5,
+    "atk": 1800,
+    "defensa": 1500,
+    "estrellas_guardianas": [
+      "Mars",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 69,
+    "nombre": "Thousand Dragon",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Dragon",
+    "nivel": 7,
+    "atk": 2400,
+    "defensa": 2000,
+    "estrellas_guardianas": [
+      "Mars",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 70,
+    "nombre": "Fiend Kraken",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 4,
+    "atk": 1200,
+    "defensa": 1400,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 71,
+    "nombre": "Jellyfish",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 4,
+    "atk": 1200,
+    "defensa": 1500,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 72,
+    "nombre": "Cocoon of Evolution",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Insect",
+    "nivel": 3,
+    "atk": 0,
+    "defensa": 2000,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 73,
+    "nombre": "Kairyu-Shin",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Sea Serpent",
+    "nivel": 5,
+    "atk": 1800,
+    "defensa": 1500,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 74,
+    "nombre": "Giant Soldier of Stone",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Rock",
+    "nivel": 3,
+    "atk": 1300,
+    "defensa": 2000,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 75,
+    "nombre": "Man-eating Plant",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Plant",
+    "nivel": 2,
+    "atk": 800,
+    "defensa": 600,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 76,
+    "nombre": "Krokodilus",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Reptile",
+    "nivel": 4,
+    "atk": 1100,
+    "defensa": 1200,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 77,
+    "nombre": "Grappler",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Reptile",
+    "nivel": 4,
+    "atk": 1300,
+    "defensa": 1200,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Saturn"
+    ]
+  },
+  {
+    "numero": 78,
+    "nombre": "Axe Raider",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 4,
+    "atk": 1700,
+    "defensa": 1150,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 79,
+    "nombre": "Megazowler",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Dinosaur",
+    "nivel": 6,
+    "atk": 1800,
+    "defensa": 2000,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 80,
+    "nombre": "Uraby",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Dinosaur",
+    "nivel": 4,
+    "atk": 1500,
+    "defensa": 800,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 81,
+    "nombre": "Crawling Dragon 2",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Dinosaur",
+    "nivel": 4,
+    "atk": 1600,
+    "defensa": 1200,
+    "estrellas_guardianas": [
+      "Moon",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 82,
+    "nombre": "Red-eyes B. Dragon",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Dragon",
+    "nivel": 7,
+    "atk": 2400,
+    "defensa": 2000,
+    "estrellas_guardianas": [
+      "Moon",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 83,
+    "nombre": "Castle of Dark Illusions",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 4,
+    "atk": 920,
+    "defensa": 1930,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Uranus"
+    ]
+  },
+  {
+    "numero": 84,
+    "nombre": "Reaper of the Cards",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 5,
+    "atk": 1380,
+    "defensa": 1930,
+    "estrellas_guardianas": [
+      "Moon",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 85,
+    "nombre": "King of Yamimakai",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 5,
+    "atk": 2000,
+    "defensa": 1530,
+    "estrellas_guardianas": [
+      "Moon",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 86,
+    "nombre": "Barox",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 5,
+    "atk": 1380,
+    "defensa": 1530,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 87,
+    "nombre": "Dark Chimera",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 5,
+    "atk": 1610,
+    "defensa": 1460,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 88,
+    "nombre": "Metal Guardian",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 5,
+    "atk": 1150,
+    "defensa": 2150,
+    "estrellas_guardianas": [
+      "Moon",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 89,
+    "nombre": "Catapult Turtle",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 5,
+    "atk": 1000,
+    "defensa": 2000,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Sun"
+    ]
+  },
+  {
+    "numero": 90,
+    "nombre": "Gyakutenno Megami",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fairy",
+    "nivel": 6,
+    "atk": 1800,
+    "defensa": 2000,
+    "estrellas_guardianas": [
+      "Sun",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 91,
+    "nombre": "Mystic Horseman",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Beast",
+    "nivel": 4,
+    "atk": 1300,
+    "defensa": 1550,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Uranus"
+    ]
+  },
+  {
+    "numero": 92,
+    "nombre": "Rabid Horseman",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Beast-Warrior",
+    "nivel": 6,
+    "atk": 2000,
+    "defensa": 1700,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 93,
+    "nombre": "Zanki",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 5,
+    "atk": 1500,
+    "defensa": 1700,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 94,
+    "nombre": "Crawling Dragon",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Dragon",
+    "nivel": 5,
+    "atk": 1600,
+    "defensa": 1400,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Sun"
+    ]
+  },
+  {
+    "numero": 95,
+    "nombre": "Crass Clown",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 4,
+    "atk": 1350,
+    "defensa": 1400,
+    "estrellas_guardianas": [
+      "Venus",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 96,
+    "nombre": "Armored Zombie",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Zombie",
+    "nivel": 3,
+    "atk": 1500,
+    "defensa": 0,
+    "estrellas_guardianas": [
+      "Moon",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 97,
+    "nombre": "Dragon Zombie",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Zombie",
+    "nivel": 3,
+    "atk": 1600,
+    "defensa": 0,
+    "estrellas_guardianas": [
+      "Moon",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 98,
+    "nombre": "Clown Zombie",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Zombie",
+    "nivel": 2,
+    "atk": 1350,
+    "defensa": 0,
+    "estrellas_guardianas": [
+      "Moon",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 99,
+    "nombre": "Pumpking the King of Ghosts",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Zombie",
+    "nivel": 6,
+    "atk": 1800,
+    "defensa": 2000,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 100,
+    "nombre": "Battle Warrior",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 3,
+    "atk": 700,
+    "defensa": 1000,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 101,
+    "nombre": "Wings of Wicked Flame",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Pyro",
+    "nivel": 2,
+    "atk": 700,
+    "defensa": 600,
+    "estrellas_guardianas": [
+      "Mars",
+      "Saturn"
+    ]
+  },
+  {
+    "numero": 102,
+    "nombre": "Mask of Darkness",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 2,
+    "atk": 900,
+    "defensa": 400,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 103,
+    "nombre": "Job-Change Mirror",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 3,
+    "atk": 800,
+    "defensa": 1300,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 104,
+    "nombre": "Curtain of the Dark Ones",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Spellcaster",
+    "nivel": 2,
+    "atk": 600,
+    "defensa": 500,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 105,
+    "nombre": "Tomozaurus",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Dinosaur",
+    "nivel": 2,
+    "atk": 500,
+    "defensa": 400,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 106,
+    "nombre": "Spirit of the Winds",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Spellcaster",
+    "nivel": 5,
+    "atk": 1700,
+    "defensa": 1400,
+    "estrellas_guardianas": [
+      "Saturn",
+      "Sun"
+    ]
+  },
+  {
+    "numero": 107,
+    "nombre": "Kageningen",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 2,
+    "atk": 800,
+    "defensa": 600,
+    "estrellas_guardianas": [
+      "Moon",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 108,
+    "nombre": "Graveyard and the Hand of Invitation",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Zombie",
+    "nivel": 3,
+    "atk": 700,
+    "defensa": 900,
+    "estrellas_guardianas": [
+      "Moon",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 109,
+    "nombre": "Goddess with the Third Eye",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fairy",
+    "nivel": 4,
+    "atk": 1200,
+    "defensa": 1000,
+    "estrellas_guardianas": [
+      "Sun",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 110,
+    "nombre": "Hero of the East",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 3,
+    "atk": 1100,
+    "defensa": 1000,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 111,
+    "nombre": "Doma The Angel of Silence",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fairy",
+    "nivel": 5,
+    "atk": 1600,
+    "defensa": 1400,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Saturn"
+    ]
+  },
+  {
+    "numero": 112,
+    "nombre": "That Which Feeds on Life",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 4,
+    "atk": 1200,
+    "defensa": 1000,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Uranus"
+    ]
+  },
+  {
+    "numero": 113,
+    "nombre": "Dark Gray",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Beast",
+    "nivel": 3,
+    "atk": 800,
+    "defensa": 900,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 114,
+    "nombre": "White Magical Hat",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Spellcaster",
+    "nivel": 3,
+    "atk": 1000,
+    "defensa": 700,
+    "estrellas_guardianas": [
+      "Sun",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 115,
+    "nombre": "Kamion Wizard",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Spellcaster",
+    "nivel": 4,
+    "atk": 1300,
+    "defensa": 1100,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 116,
+    "nombre": "Nightmare Scorpion",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Insect",
+    "nivel": 3,
+    "atk": 900,
+    "defensa": 800,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 117,
+    "nombre": "Spirit of the Books",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Winged Beast",
+    "nivel": 4,
+    "atk": 1400,
+    "defensa": 1200,
+    "estrellas_guardianas": [
+      "Saturn",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 118,
+    "nombre": "Supporter in the Shadows",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 3,
+    "atk": 1000,
+    "defensa": 1000,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 119,
+    "nombre": "Trial of Nightmares",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 4,
+    "atk": 1300,
+    "defensa": 900,
+    "estrellas_guardianas": [
+      "Moon",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 120,
+    "nombre": "Dream Clown",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 3,
+    "atk": 1200,
+    "defensa": 900,
+    "estrellas_guardianas": [
+      "Venus",
+      "Saturn"
+    ]
+  },
+  {
+    "numero": 121,
+    "nombre": "Sleeping Lion",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Beast",
+    "nivel": 4,
+    "atk": 700,
+    "defensa": 1700,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Sun"
+    ]
+  },
+  {
+    "numero": 122,
+    "nombre": "Yamatano Dragon Scroll",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Dragon",
+    "nivel": 2,
+    "atk": 900,
+    "defensa": 300,
+    "estrellas_guardianas": [
+      "Saturn",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 123,
+    "nombre": "Dark Plant",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Plant",
+    "nivel": 1,
+    "atk": 300,
+    "defensa": 400,
+    "estrellas_guardianas": [
+      "Moon",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 124,
+    "nombre": "Ancient Tool",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Machine",
+    "nivel": 5,
+    "atk": 1700,
+    "defensa": 1400,
+    "estrellas_guardianas": [
+      "Moon",
+      "Saturn"
+    ]
+  },
+  {
+    "numero": 125,
+    "nombre": "Faith Bird",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Winged Beast",
+    "nivel": 4,
+    "atk": 1500,
+    "defensa": 1100,
+    "estrellas_guardianas": [
+      "Sun",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 126,
+    "nombre": "Orion the Battle King",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fairy",
+    "nivel": 5,
+    "atk": 1800,
+    "defensa": 1500,
+    "estrellas_guardianas": [
+      "Sun",
+      "Saturn"
+    ]
+  },
+  {
+    "numero": 127,
+    "nombre": "Ansatsu",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 5,
+    "atk": 1700,
+    "defensa": 1200,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 128,
+    "nombre": "LaMoon",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Spellcaster",
+    "nivel": 5,
+    "atk": 1200,
+    "defensa": 1700,
+    "estrellas_guardianas": [
+      "Sun",
+      "Uranus"
+    ]
+  },
+  {
+    "numero": 129,
+    "nombre": "Nemuriko",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Spellcaster",
+    "nivel": 3,
+    "atk": 800,
+    "defensa": 700,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 130,
+    "nombre": "Weather Control",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fairy",
+    "nivel": 2,
+    "atk": 600,
+    "defensa": 400,
+    "estrellas_guardianas": [
+      "Sun",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 131,
+    "nombre": "Octoberser",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 5,
+    "atk": 1600,
+    "defensa": 1400,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 132,
+    "nombre": "The 13th Grave",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Zombie",
+    "nivel": 3,
+    "atk": 1200,
+    "defensa": 900,
+    "estrellas_guardianas": [
+      "Moon",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 133,
+    "nombre": "Charubin the Fire Knight",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Pyro",
+    "nivel": 3,
+    "atk": 1100,
+    "defensa": 800,
+    "estrellas_guardianas": [
+      "Mars",
+      "Uranus"
+    ]
+  },
+  {
+    "numero": 134,
+    "nombre": "Mystical Capture Chain",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fairy",
+    "nivel": 2,
+    "atk": 700,
+    "defensa": 700,
+    "estrellas_guardianas": [
+      "Sun",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 135,
+    "nombre": "Fiend's Hand",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Zombie",
+    "nivel": 2,
+    "atk": 600,
+    "defensa": 600,
+    "estrellas_guardianas": [
+      "Moon",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 136,
+    "nombre": "Witty Phantom",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 4,
+    "atk": 1400,
+    "defensa": 1300,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 137,
+    "nombre": "Mystery Hand",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 2,
+    "atk": 500,
+    "defensa": 500,
+    "estrellas_guardianas": [
+      "Moon",
+      "Uranus"
+    ]
+  },
+  {
+    "numero": 138,
+    "nombre": "Dragon Statue",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 3,
+    "atk": 1100,
+    "defensa": 900,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 139,
+    "nombre": "Blue-eyed Silver Zombie",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Zombie",
+    "nivel": 3,
+    "atk": 900,
+    "defensa": 700,
+    "estrellas_guardianas": [
+      "Sun",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 140,
+    "nombre": "Toad Master",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 3,
+    "atk": 1000,
+    "defensa": 1000,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 141,
+    "nombre": "Spiked Snail",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Insect",
+    "nivel": 3,
+    "atk": 700,
+    "defensa": 1300,
+    "estrellas_guardianas": [
+      "Moon",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 142,
+    "nombre": "Flame Manipulator",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Spellcaster",
+    "nivel": 3,
+    "atk": 900,
+    "defensa": 1000,
+    "estrellas_guardianas": [
+      "Mars",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 143,
+    "nombre": "Necrolancer the Timelord",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Spellcaster",
+    "nivel": 3,
+    "atk": 800,
+    "defensa": 900,
+    "estrellas_guardianas": [
+      "Venus",
+      "Uranus"
+    ]
+  },
+  {
+    "numero": 144,
+    "nombre": "Djinn the Watcher of the Wind",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Spellcaster",
+    "nivel": 3,
+    "atk": 700,
+    "defensa": 900,
+    "estrellas_guardianas": [
+      "Saturn",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 145,
+    "nombre": "The Bewitching Phantom Thief",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Spellcaster",
+    "nivel": 2,
+    "atk": 700,
+    "defensa": 700,
+    "estrellas_guardianas": [
+      "Venus",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 146,
+    "nombre": "Temple of Skulls",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Zombie",
+    "nivel": 4,
+    "atk": 900,
+    "defensa": 1300,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 147,
+    "nombre": "Monster Egg",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 3,
+    "atk": 600,
+    "defensa": 900,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 148,
+    "nombre": "The Shadow Who Controls the Dark",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 3,
+    "atk": 800,
+    "defensa": 700,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 149,
+    "nombre": "Lord of the Lamp",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 4,
+    "atk": 1400,
+    "defensa": 1200,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Saturn"
+    ]
+  },
+  {
+    "numero": 150,
+    "nombre": "Akihiron",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 5,
+    "atk": 1700,
+    "defensa": 1400,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 151,
+    "nombre": "Rhaimundos of the Red Sword",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 4,
+    "atk": 1200,
+    "defensa": 1300,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 152,
+    "nombre": "The Melting Red Shadow",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 2,
+    "atk": 500,
+    "defensa": 700,
+    "estrellas_guardianas": [
+      "Moon",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 153,
+    "nombre": "Dokuroizo the Grim Reaper",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Zombie",
+    "nivel": 3,
+    "atk": 900,
+    "defensa": 1200,
+    "estrellas_guardianas": [
+      "Moon",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 154,
+    "nombre": "Fire Reaper",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Zombie",
+    "nivel": 2,
+    "atk": 700,
+    "defensa": 500,
+    "estrellas_guardianas": [
+      "Mars",
+      "Sun"
+    ]
+  },
+  {
+    "numero": 155,
+    "nombre": "Larvas",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Beast",
+    "nivel": 3,
+    "atk": 800,
+    "defensa": 1000,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 156,
+    "nombre": "Hard Armor",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 3,
+    "atk": 300,
+    "defensa": 1200,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Sun"
+    ]
+  },
+  {
+    "numero": 157,
+    "nombre": "Firegrass",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Plant",
+    "nivel": 2,
+    "atk": 700,
+    "defensa": 600,
+    "estrellas_guardianas": [
+      "Mars",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 158,
+    "nombre": "Man Eater",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Plant",
+    "nivel": 2,
+    "atk": 800,
+    "defensa": 600,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Uranus"
+    ]
+  },
+  {
+    "numero": 159,
+    "nombre": "Dig Beak",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Beast",
+    "nivel": 2,
+    "atk": 500,
+    "defensa": 800,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 160,
+    "nombre": "M-warrior 1",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 3,
+    "atk": 1000,
+    "defensa": 500,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 161,
+    "nombre": "M-warrior 2",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 3,
+    "atk": 500,
+    "defensa": 1000,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 162,
+    "nombre": "Tainted Wisdom",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 3,
+    "atk": 1250,
+    "defensa": 800,
+    "estrellas_guardianas": [
+      "Moon",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 163,
+    "nombre": "Lisark",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Beast",
+    "nivel": 4,
+    "atk": 1300,
+    "defensa": 1300,
+    "estrellas_guardianas": [
+      "Saturn",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 164,
+    "nombre": "Lord of Zemia",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 4,
+    "atk": 1300,
+    "defensa": 1000,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Uranus"
+    ]
+  },
+  {
+    "numero": 165,
+    "nombre": "The Judgement Hand",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 3,
+    "atk": 1400,
+    "defensa": 700,
+    "estrellas_guardianas": [
+      "Sun",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 166,
+    "nombre": "Mysterious Puppeteer",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 4,
+    "atk": 1000,
+    "defensa": 1500,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 167,
+    "nombre": "Ancient Jar",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Rock",
+    "nivel": 1,
+    "atk": 400,
+    "defensa": 200,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 168,
+    "nombre": "Darkfire Dragon",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Dragon",
+    "nivel": 4,
+    "atk": 1500,
+    "defensa": 1250,
+    "estrellas_guardianas": [
+      "Mars",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 169,
+    "nombre": "Dark King of the Abyss",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 3,
+    "atk": 1200,
+    "defensa": 800,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 170,
+    "nombre": "Spirit of the Harp",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fairy",
+    "nivel": 4,
+    "atk": 800,
+    "defensa": 2000,
+    "estrellas_guardianas": [
+      "Sun",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 171,
+    "nombre": "Big Eye",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 4,
+    "atk": 1200,
+    "defensa": 1000,
+    "estrellas_guardianas": [
+      "Venus",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 172,
+    "nombre": "Armaill",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 3,
+    "atk": 700,
+    "defensa": 1300,
+    "estrellas_guardianas": [
+      "Mars",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 173,
+    "nombre": "Dark Prisoner",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 3,
+    "atk": 600,
+    "defensa": 1000,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 174,
+    "nombre": "Hurricail",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Spellcaster",
+    "nivel": 2,
+    "atk": 900,
+    "defensa": 200,
+    "estrellas_guardianas": [
+      "Saturn",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 175,
+    "nombre": "Ancient Brain",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 3,
+    "atk": 1000,
+    "defensa": 700,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 176,
+    "nombre": "Fire Eye",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Pyro",
+    "nivel": 2,
+    "atk": 800,
+    "defensa": 600,
+    "estrellas_guardianas": [
+      "Mars",
+      "Saturn"
+    ]
+  },
+  {
+    "numero": 177,
+    "nombre": "Monsturtle",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 3,
+    "atk": 800,
+    "defensa": 1000,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 178,
+    "nombre": "Claw Reacher",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 3,
+    "atk": 1000,
+    "defensa": 800,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 179,
+    "nombre": "Phantom Dewan",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Spellcaster",
+    "nivel": 2,
+    "atk": 700,
+    "defensa": 600,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 180,
+    "nombre": "Arlownay",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Plant",
+    "nivel": 3,
+    "atk": 800,
+    "defensa": 1000,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 181,
+    "nombre": "Dark Shade",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 3,
+    "atk": 1000,
+    "defensa": 1000,
+    "estrellas_guardianas": [
+      "Saturn",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 182,
+    "nombre": "Masked Clown",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 2,
+    "atk": 500,
+    "defensa": 700,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Saturn"
+    ]
+  },
+  {
+    "numero": 183,
+    "nombre": "Lucky Trinket",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Spellcaster",
+    "nivel": 2,
+    "atk": 600,
+    "defensa": 800,
+    "estrellas_guardianas": [
+      "Sun",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 184,
+    "nombre": "Genin",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Spellcaster",
+    "nivel": 3,
+    "atk": 600,
+    "defensa": 900,
+    "estrellas_guardianas": [
+      "Venus",
+      "Sun"
+    ]
+  },
+  {
+    "numero": 185,
+    "nombre": "Eyearmor",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 2,
+    "atk": 600,
+    "defensa": 500,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 186,
+    "nombre": "Fiend Refrection 2",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Winged Beast",
+    "nivel": 4,
+    "atk": 1100,
+    "defensa": 1400,
+    "estrellas_guardianas": [
+      "Venus",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 187,
+    "nombre": "Gate Deeg",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Beast",
+    "nivel": 3,
+    "atk": 700,
+    "defensa": 800,
+    "estrellas_guardianas": [
+      "Moon",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 188,
+    "nombre": "Synchar",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Beast",
+    "nivel": 3,
+    "atk": 800,
+    "defensa": 900,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Sun"
+    ]
+  },
+  {
+    "numero": 189,
+    "nombre": "Fusionist",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Beast",
+    "nivel": 3,
+    "atk": 900,
+    "defensa": 700,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 190,
+    "nombre": "Akakieisu",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Spellcaster",
+    "nivel": 3,
+    "atk": 1000,
+    "defensa": 800,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Uranus"
+    ]
+  },
+  {
+    "numero": 191,
+    "nombre": "LALA Li-oon",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Thunder",
+    "nivel": 2,
+    "atk": 600,
+    "defensa": 600,
+    "estrellas_guardianas": [
+      "Pluto",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 192,
+    "nombre": "Key Mace",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fairy",
+    "nivel": 1,
+    "atk": 400,
+    "defensa": 300,
+    "estrellas_guardianas": [
+      "Sun",
+      "Saturn"
+    ]
+  },
+  {
+    "numero": 193,
+    "nombre": "Turtle Tiger",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 4,
+    "atk": 1000,
+    "defensa": 1500,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Saturn"
+    ]
+  },
+  {
+    "numero": 194,
+    "nombre": "Terra the Terrible",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 4,
+    "atk": 1200,
+    "defensa": 1300,
+    "estrellas_guardianas": [
+      "Moon",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 195,
+    "nombre": "Doron",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 2,
+    "atk": 900,
+    "defensa": 500,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 196,
+    "nombre": "Arma Knight",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 4,
+    "atk": 1000,
+    "defensa": 1200,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 197,
+    "nombre": "Mech Mole Zombie",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Zombie",
+    "nivel": 2,
+    "atk": 500,
+    "defensa": 400,
+    "estrellas_guardianas": [
+      "Moon",
+      "Saturn"
+    ]
+  },
+  {
+    "numero": 198,
+    "nombre": "Happy Lover",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fairy",
+    "nivel": 2,
+    "atk": 800,
+    "defensa": 500,
+    "estrellas_guardianas": [
+      "Sun",
+      "Uranus"
+    ]
+  },
+  {
+    "numero": 199,
+    "nombre": "Penguin Knight",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 3,
+    "atk": 900,
+    "defensa": 800,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 200,
+    "nombre": "Petit Dragon",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Dragon",
+    "nivel": 2,
+    "atk": 600,
+    "defensa": 700,
+    "estrellas_guardianas": [
+      "Saturn",
+      "Sun"
+    ]
+  },
+  {
+    "numero": 201,
+    "nombre": "Frenzied Panda",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Beast",
+    "nivel": 4,
+    "atk": 1200,
+    "defensa": 1000,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 202,
+    "nombre": "Air Marmot of Nefariousness",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Beast",
+    "nivel": 2,
+    "atk": 400,
+    "defensa": 600,
+    "estrellas_guardianas": [
+      "Moon",
+      "Uranus"
+    ]
+  },
+  {
+    "numero": 203,
+    "nombre": "Phantom Ghost",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Zombie",
+    "nivel": 2,
+    "atk": 600,
+    "defensa": 800,
+    "estrellas_guardianas": [
+      "Moon",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 204,
+    "nombre": "Mabarrel",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 5,
+    "atk": 1700,
+    "defensa": 1400,
+    "estrellas_guardianas": [
+      "Moon",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 205,
+    "nombre": "Dorover",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 3,
+    "atk": 900,
+    "defensa": 800,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Sun"
+    ]
+  },
+  {
+    "numero": 206,
+    "nombre": "Twin Long Rods 1",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 3,
+    "atk": 900,
+    "defensa": 700,
+    "estrellas_guardianas": [
+      "Moon",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 207,
+    "nombre": "Droll Bird",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Winged Beast",
+    "nivel": 2,
+    "atk": 600,
+    "defensa": 500,
+    "estrellas_guardianas": [
+      "Saturn",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 208,
+    "nombre": "Petit Angel",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fairy",
+    "nivel": 3,
+    "atk": 600,
+    "defensa": 900,
+    "estrellas_guardianas": [
+      "Sun",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 209,
+    "nombre": "Winged Cleaver",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Insect",
+    "nivel": 2,
+    "atk": 700,
+    "defensa": 700,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 210,
+    "nombre": "Hinotama Soul",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Pyro",
+    "nivel": 2,
+    "atk": 600,
+    "defensa": 500,
+    "estrellas_guardianas": [
+      "Mars",
+      "Uranus"
+    ]
+  },
+  {
+    "numero": 211,
+    "nombre": "Kaminarikozou",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Thunder",
+    "nivel": 2,
+    "atk": 700,
+    "defensa": 600,
+    "estrellas_guardianas": [
+      "Pluto",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 212,
+    "nombre": "Meotoko",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Beast",
+    "nivel": 2,
+    "atk": 700,
+    "defensa": 600,
+    "estrellas_guardianas": [
+      "Moon",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 213,
+    "nombre": "Aqua Madoor",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Spellcaster",
+    "nivel": 4,
+    "atk": 1200,
+    "defensa": 2000,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 214,
+    "nombre": "Kagemusha of the Blue Flame",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 2,
+    "atk": 800,
+    "defensa": 400,
+    "estrellas_guardianas": [
+      "Mars",
+      "Sun"
+    ]
+  },
+  {
+    "numero": 215,
+    "nombre": "Flame Ghost",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Zombie",
+    "nivel": 3,
+    "atk": 1000,
+    "defensa": 800,
+    "estrellas_guardianas": [
+      "Mars",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 216,
+    "nombre": "Dryad",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Spellcaster",
+    "nivel": 4,
+    "atk": 1200,
+    "defensa": 1400,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Uranus"
+    ]
+  },
+  {
+    "numero": 217,
+    "nombre": "B. Skull Dragon",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Dragon",
+    "nivel": 9,
+    "atk": 3200,
+    "defensa": 2500,
+    "estrellas_guardianas": [
+      "Moon",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 218,
+    "nombre": "Two-mouth Darkruler",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Dinosaur",
+    "nivel": 3,
+    "atk": 900,
+    "defensa": 700,
+    "estrellas_guardianas": [
+      "Moon",
+      "Saturn"
+    ]
+  },
+  {
+    "numero": 219,
+    "nombre": "Solitude",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Beast-Warrior",
+    "nivel": 3,
+    "atk": 1050,
+    "defensa": 1000,
+    "estrellas_guardianas": [
+      "Moon",
+      "Uranus"
+    ]
+  },
+  {
+    "numero": 220,
+    "nombre": "Masked Sorcerer",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Spellcaster",
+    "nivel": 4,
+    "atk": 900,
+    "defensa": 1400,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 221,
+    "nombre": "Kumootoko",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Insect",
+    "nivel": 3,
+    "atk": 700,
+    "defensa": 1400,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 222,
+    "nombre": "Midnight Fiend",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 2,
+    "atk": 800,
+    "defensa": 600,
+    "estrellas_guardianas": [
+      "Moon",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 223,
+    "nombre": "Roaring Ocean Snake",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 6,
+    "atk": 2100,
+    "defensa": 1800,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 224,
+    "nombre": "Trap Master",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 3,
+    "atk": 500,
+    "defensa": 1100,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 225,
+    "nombre": "Fiend Sword",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 4,
+    "atk": 1400,
+    "defensa": 800,
+    "estrellas_guardianas": [
+      "Moon",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 226,
+    "nombre": "Skull Stalker",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 3,
+    "atk": 900,
+    "defensa": 800,
+    "estrellas_guardianas": [
+      "Moon",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 227,
+    "nombre": "Hitodenchak",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 2,
+    "atk": 600,
+    "defensa": 700,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 228,
+    "nombre": "Wood Remains",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Zombie",
+    "nivel": 3,
+    "atk": 1000,
+    "defensa": 900,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 229,
+    "nombre": "Hourglass of Life",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fairy",
+    "nivel": 2,
+    "atk": 700,
+    "defensa": 600,
+    "estrellas_guardianas": [
+      "Sun",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 230,
+    "nombre": "Rare Fish",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fish",
+    "nivel": 4,
+    "atk": 1500,
+    "defensa": 1200,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 231,
+    "nombre": "Wood Clown",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 3,
+    "atk": 800,
+    "defensa": 1200,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 232,
+    "nombre": "Madjinn Gunn",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 2,
+    "atk": 600,
+    "defensa": 800,
+    "estrellas_guardianas": [
+      "Moon",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 233,
+    "nombre": "Dark Titan of Terror",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 4,
+    "atk": 1300,
+    "defensa": 1100,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 234,
+    "nombre": "Beautiful Headhuntress",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 4,
+    "atk": 1600,
+    "defensa": 800,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Saturn"
+    ]
+  },
+  {
+    "numero": 235,
+    "nombre": "Wodan the Resident of the Forest",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 3,
+    "atk": 900,
+    "defensa": 1200,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Sun"
+    ]
+  },
+  {
+    "numero": 236,
+    "nombre": "Guardian of the Labyrinth",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 4,
+    "atk": 1000,
+    "defensa": 1200,
+    "estrellas_guardianas": [
+      "Pluto",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 237,
+    "nombre": "Haniwa",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Rock",
+    "nivel": 2,
+    "atk": 500,
+    "defensa": 500,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 238,
+    "nombre": "Yashinoki",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Plant",
+    "nivel": 2,
+    "atk": 800,
+    "defensa": 600,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 239,
+    "nombre": "Vishwar Randi",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 3,
+    "atk": 900,
+    "defensa": 700,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Uranus"
+    ]
+  },
+  {
+    "numero": 240,
+    "nombre": "The Drdek",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 3,
+    "atk": 700,
+    "defensa": 800,
+    "estrellas_guardianas": [
+      "Moon",
+      "Saturn"
+    ]
+  },
+  {
+    "numero": 241,
+    "nombre": "Dark Assailant",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Zombie",
+    "nivel": 4,
+    "atk": 1200,
+    "defensa": 1200,
+    "estrellas_guardianas": [
+      "Moon",
+      "Uranus"
+    ]
+  },
+  {
+    "numero": 242,
+    "nombre": "Candle of Fate",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 2,
+    "atk": 600,
+    "defensa": 600,
+    "estrellas_guardianas": [
+      "Mars",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 243,
+    "nombre": "Water Element",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 3,
+    "atk": 900,
+    "defensa": 700,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Saturn"
+    ]
+  },
+  {
+    "numero": 244,
+    "nombre": "Dissolverock",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Rock",
+    "nivel": 3,
+    "atk": 900,
+    "defensa": 1000,
+    "estrellas_guardianas": [
+      "Mars",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 245,
+    "nombre": "Meda Bat",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 2,
+    "atk": 800,
+    "defensa": 400,
+    "estrellas_guardianas": [
+      "Moon",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 246,
+    "nombre": "One Who Hunts Souls",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Beast-Warrior",
+    "nivel": 4,
+    "atk": 1100,
+    "defensa": 1000,
+    "estrellas_guardianas": [
+      "Moon",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 247,
+    "nombre": "Root Water",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fish",
+    "nivel": 3,
+    "atk": 900,
+    "defensa": 800,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Sun"
+    ]
+  },
+  {
+    "numero": 248,
+    "nombre": "Master & Expert",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Beast",
+    "nivel": 4,
+    "atk": 1200,
+    "defensa": 1000,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 249,
+    "nombre": "Water Omotics",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 4,
+    "atk": 1400,
+    "defensa": 1200,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 250,
+    "nombre": "Hyo",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 3,
+    "atk": 800,
+    "defensa": 1200,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 251,
+    "nombre": "Enchanting Mermaid",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fish",
+    "nivel": 3,
+    "atk": 1200,
+    "defensa": 900,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 252,
+    "nombre": "Nekogal 1",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Beast",
+    "nivel": 3,
+    "atk": 1100,
+    "defensa": 900,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 253,
+    "nombre": "Angelwitch",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Spellcaster",
+    "nivel": 3,
+    "atk": 800,
+    "defensa": 1000,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 254,
+    "nombre": "Embryonic Beast",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 2,
+    "atk": 500,
+    "defensa": 750,
+    "estrellas_guardianas": [
+      "Moon",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 255,
+    "nombre": "Prevent Rat",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Beast",
+    "nivel": 4,
+    "atk": 500,
+    "defensa": 2000,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Uranus"
+    ]
+  },
+  {
+    "numero": 256,
+    "nombre": "Dimensional Warrior",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 4,
+    "atk": 1200,
+    "defensa": 1000,
+    "estrellas_guardianas": [
+      "Venus",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 257,
+    "nombre": "Stone Armadiller",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Rock",
+    "nivel": 3,
+    "atk": 800,
+    "defensa": 1200,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Sun"
+    ]
+  },
+  {
+    "numero": 258,
+    "nombre": "Beastking of the Swamps",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 4,
+    "atk": 1000,
+    "defensa": 1100,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 259,
+    "nombre": "Ancient Sorcerer",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Spellcaster",
+    "nivel": 4,
+    "atk": 1000,
+    "defensa": 1300,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 260,
+    "nombre": "Lunar Queen Elzaim",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fairy",
+    "nivel": 3,
+    "atk": 750,
+    "defensa": 1100,
+    "estrellas_guardianas": [
+      "Moon",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 261,
+    "nombre": "Wicked Mirror",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 2,
+    "atk": 700,
+    "defensa": 600,
+    "estrellas_guardianas": [
+      "Venus",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 262,
+    "nombre": "The Little Swordsman of Aile",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 3,
+    "atk": 800,
+    "defensa": 1300,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 263,
+    "nombre": "Rock Ogre Grotto 2",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Rock",
+    "nivel": 3,
+    "atk": 700,
+    "defensa": 1400,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Sun"
+    ]
+  },
+  {
+    "numero": 264,
+    "nombre": "Wing Egg Elf",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fairy",
+    "nivel": 3,
+    "atk": 500,
+    "defensa": 1300,
+    "estrellas_guardianas": [
+      "Sun",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 265,
+    "nombre": "The Furious Sea King",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 3,
+    "atk": 800,
+    "defensa": 700,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 266,
+    "nombre": "Princess of Tsurugi",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 3,
+    "atk": 900,
+    "defensa": 700,
+    "estrellas_guardianas": [
+      "Saturn",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 267,
+    "nombre": "Unknown Warrior of Fiend",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 3,
+    "atk": 1000,
+    "defensa": 500,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 268,
+    "nombre": "Sectarian of Secrets",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Spellcaster",
+    "nivel": 2,
+    "atk": 700,
+    "defensa": 500,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 269,
+    "nombre": "Versago the Destroyer",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 3,
+    "atk": 1100,
+    "defensa": 900,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Saturn"
+    ]
+  },
+  {
+    "numero": 270,
+    "nombre": "Wetha",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 3,
+    "atk": 1000,
+    "defensa": 900,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Saturn"
+    ]
+  },
+  {
+    "numero": 271,
+    "nombre": "Megirus Light",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 3,
+    "atk": 900,
+    "defensa": 600,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Uranus"
+    ]
+  },
+  {
+    "numero": 272,
+    "nombre": "Mavelus",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Winged Beast",
+    "nivel": 4,
+    "atk": 1300,
+    "defensa": 900,
+    "estrellas_guardianas": [
+      "Mars",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 273,
+    "nombre": "Ancient Tree of Enlightenment",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Plant",
+    "nivel": 3,
+    "atk": 600,
+    "defensa": 1500,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 274,
+    "nombre": "Green Phantom King",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Plant",
+    "nivel": 3,
+    "atk": 500,
+    "defensa": 1600,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 275,
+    "nombre": "Ground Attacker Bugroth",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Machine",
+    "nivel": 4,
+    "atk": 1500,
+    "defensa": 1000,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 276,
+    "nombre": "Ray & Temperature",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fairy",
+    "nivel": 3,
+    "atk": 1000,
+    "defensa": 1000,
+    "estrellas_guardianas": [
+      "Sun",
+      "Saturn"
+    ]
+  },
+  {
+    "numero": 277,
+    "nombre": "Gorgon Egg",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 3,
+    "atk": 300,
+    "defensa": 1300,
+    "estrellas_guardianas": [
+      "Moon",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 278,
+    "nombre": "Petit Moth",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Insect",
+    "nivel": 1,
+    "atk": 300,
+    "defensa": 200,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Sun"
+    ]
+  },
+  {
+    "numero": 279,
+    "nombre": "King Fog",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 3,
+    "atk": 1000,
+    "defensa": 900,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 280,
+    "nombre": "Protector of the Throne",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 4,
+    "atk": 800,
+    "defensa": 1500,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 281,
+    "nombre": "Mystic Clown",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 4,
+    "atk": 1500,
+    "defensa": 1000,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 282,
+    "nombre": "Mystical Sheep 2",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Beast",
+    "nivel": 3,
+    "atk": 800,
+    "defensa": 1000,
+    "estrellas_guardianas": [
+      "Venus",
+      "Saturn"
+    ]
+  },
+  {
+    "numero": 283,
+    "nombre": "Holograh",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Machine",
+    "nivel": 3,
+    "atk": 1100,
+    "defensa": 700,
+    "estrellas_guardianas": [
+      "Sun",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 284,
+    "nombre": "Tao the Chanter",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Spellcaster",
+    "nivel": 3,
+    "atk": 1200,
+    "defensa": 900,
+    "estrellas_guardianas": [
+      "Venus",
+      "Uranus"
+    ]
+  },
+  {
+    "numero": 285,
+    "nombre": "Serpent Marauder",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Reptile",
+    "nivel": 2,
+    "atk": 700,
+    "defensa": 600,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Sun"
+    ]
+  },
+  {
+    "numero": 286,
+    "nombre": "Gatekeeper",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Machine",
+    "nivel": 5,
+    "atk": 1500,
+    "defensa": 1800,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 287,
+    "nombre": "Ogre of the Black Shadow",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Beast-Warrior",
+    "nivel": 4,
+    "atk": 1200,
+    "defensa": 1400,
+    "estrellas_guardianas": [
+      "Moon",
+      "Saturn"
+    ]
+  },
+  {
+    "numero": 288,
+    "nombre": "Dark Artist",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 3,
+    "atk": 600,
+    "defensa": 1400,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 289,
+    "nombre": "Change Slime",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 1,
+    "atk": 400,
+    "defensa": 300,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 290,
+    "nombre": "Moon Envoy",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 4,
+    "atk": 1100,
+    "defensa": 1000,
+    "estrellas_guardianas": [
+      "Moon",
+      "Saturn"
+    ]
+  },
+  {
+    "numero": 291,
+    "nombre": "Fireyarou",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Pyro",
+    "nivel": 4,
+    "atk": 1300,
+    "defensa": 1000,
+    "estrellas_guardianas": [
+      "Mars",
+      "Saturn"
+    ]
+  },
+  {
+    "numero": 292,
+    "nombre": "Psychic Kappa",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 2,
+    "atk": 400,
+    "defensa": 1000,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 293,
+    "nombre": "Masaki the Legendary Swordsman",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 4,
+    "atk": 1100,
+    "defensa": 1100,
+    "estrellas_guardianas": [
+      "Sun",
+      "Uranus"
+    ]
+  },
+  {
+    "numero": 294,
+    "nombre": "Dragoness the Wicked Knight",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 3,
+    "atk": 1200,
+    "defensa": 900,
+    "estrellas_guardianas": [
+      "Saturn",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 295,
+    "nombre": "Bio Plant",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 3,
+    "atk": 600,
+    "defensa": 1300,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 296,
+    "nombre": "One-eyed Shield Dragon",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Dragon",
+    "nivel": 3,
+    "atk": 700,
+    "defensa": 1300,
+    "estrellas_guardianas": [
+      "Saturn",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 297,
+    "nombre": "Cyber Soldier of Darkworld",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Machine",
+    "nivel": 4,
+    "atk": 1400,
+    "defensa": 1200,
+    "estrellas_guardianas": [
+      "Moon",
+      "Uranus"
+    ]
+  },
+  {
+    "numero": 298,
+    "nombre": "Wicked Dragon with the Ersatz Head",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Dragon",
+    "nivel": 3,
+    "atk": 900,
+    "defensa": 900,
+    "estrellas_guardianas": [
+      "Moon",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 299,
+    "nombre": "Sonic Maid",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 3,
+    "atk": 1200,
+    "defensa": 900,
+    "estrellas_guardianas": [
+      "Sun",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 300,
+    "nombre": "Kurama",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Winged Beast",
+    "nivel": 3,
+    "atk": 800,
+    "defensa": 800,
+    "estrellas_guardianas": [
+      "Saturn",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 301,
+    "nombre": "Legendary Sword",
+    "tipo_carta": "Equip Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 302,
+    "nombre": "Sword of Dark Destruction",
+    "tipo_carta": "Equip Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 303,
+    "nombre": "Dark Energy",
+    "tipo_carta": "Equip Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 304,
+    "nombre": "Axe of Despair",
+    "tipo_carta": "Equip Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 305,
+    "nombre": "Laser Cannon Armor",
+    "tipo_carta": "Equip Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 306,
+    "nombre": "Insect Armor with Laser Cannon",
+    "tipo_carta": "Equip Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 307,
+    "nombre": "Elf's Light",
+    "tipo_carta": "Equip Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 308,
+    "nombre": "Beast Fangs",
+    "tipo_carta": "Equip Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 309,
+    "nombre": "Steel Shell",
+    "tipo_carta": "Equip Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 310,
+    "nombre": "Vile Germs",
+    "tipo_carta": "Equip Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 311,
+    "nombre": "Black Pendant",
+    "tipo_carta": "Equip Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 312,
+    "nombre": "Silver Bow and Arrow",
+    "tipo_carta": "Equip Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 313,
+    "nombre": "Horn of Light",
+    "tipo_carta": "Equip Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 314,
+    "nombre": "Horn of the Unicorn",
+    "tipo_carta": "Equip Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 315,
+    "nombre": "Dragon Treasure",
+    "tipo_carta": "Equip Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 316,
+    "nombre": "Electro-whip",
+    "tipo_carta": "Equip Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 317,
+    "nombre": "Cyber Shield",
+    "tipo_carta": "Equip Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 318,
+    "nombre": "Elegant Egotist",
+    "tipo_carta": "Equip Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 319,
+    "nombre": "Mystical Moon",
+    "tipo_carta": "Equip Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 320,
+    "nombre": "Stop Defense",
+    "tipo_carta": "Spell Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 321,
+    "nombre": "Malevolent Nuzzler",
+    "tipo_carta": "Equip Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 322,
+    "nombre": "Violet Crystal",
+    "tipo_carta": "Equip Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 323,
+    "nombre": "Book of Secret Arts",
+    "tipo_carta": "Equip Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 324,
+    "nombre": "Invigoration",
+    "tipo_carta": "Equip Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 325,
+    "nombre": "Machine Conversion Factory",
+    "tipo_carta": "Equip Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 326,
+    "nombre": "Raise Body Heat",
+    "tipo_carta": "Equip Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 327,
+    "nombre": "Follow Wind",
+    "tipo_carta": "Equip Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 328,
+    "nombre": "Power of Kaishin",
+    "tipo_carta": "Equip Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 329,
+    "nombre": "Dragon Capture Jar",
+    "tipo_carta": "Spell Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 330,
+    "nombre": "Forest",
+    "tipo_carta": "Spell Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 331,
+    "nombre": "Wasteland",
+    "tipo_carta": "Spell Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 332,
+    "nombre": "Mountain",
+    "tipo_carta": "Spell Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 333,
+    "nombre": "Sogen",
+    "tipo_carta": "Spell Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 334,
+    "nombre": "Umi",
+    "tipo_carta": "Spell Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 335,
+    "nombre": "Yami",
+    "tipo_carta": "Spell Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 336,
+    "nombre": "Dark Hole",
+    "tipo_carta": "Spell Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 337,
+    "nombre": "Raigeki",
+    "tipo_carta": "Spell Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 338,
+    "nombre": "Mooyan Curry",
+    "tipo_carta": "Spell Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 339,
+    "nombre": "Red Medicine",
+    "tipo_carta": "Spell Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 340,
+    "nombre": "Goblin's Secret Remedy",
+    "tipo_carta": "Spell Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 341,
+    "nombre": "Soul of the Pure",
+    "tipo_carta": "Spell Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 342,
+    "nombre": "Dian Keto the Cure Master",
+    "tipo_carta": "Spell Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 343,
+    "nombre": "Sparks",
+    "tipo_carta": "Spell Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 344,
+    "nombre": "Hinotama",
+    "tipo_carta": "Spell Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 345,
+    "nombre": "Final Flame",
+    "tipo_carta": "Spell Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 346,
+    "nombre": "Ookazi",
+    "tipo_carta": "Spell Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 347,
+    "nombre": "Tremendous Fire",
+    "tipo_carta": "Spell Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 348,
+    "nombre": "Swords of Revealing Light",
+    "tipo_carta": "Spell Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 349,
+    "nombre": "Spellbinding Circle",
+    "tipo_carta": "Spell Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 350,
+    "nombre": "Dark-piercing Light",
+    "tipo_carta": "Spell Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 351,
+    "nombre": "Yaranzo",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Zombie",
+    "nivel": 4,
+    "atk": 1300,
+    "defensa": 1500,
+    "estrellas_guardianas": [
+      "Moon",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 352,
+    "nombre": "Kanan the Swordmistress",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 4,
+    "atk": 1400,
+    "defensa": 1400,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 353,
+    "nombre": "Takriminos",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Sea Serpent",
+    "nivel": 4,
+    "atk": 1500,
+    "defensa": 1200,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 354,
+    "nombre": "Stuffed Animal",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 3,
+    "atk": 1200,
+    "defensa": 900,
+    "estrellas_guardianas": [
+      "Moon",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 355,
+    "nombre": "Megasonic Eye",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Machine",
+    "nivel": 5,
+    "atk": 1500,
+    "defensa": 1800,
+    "estrellas_guardianas": [
+      "Moon",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 356,
+    "nombre": "Super War-lion",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Beast",
+    "nivel": 7,
+    "atk": 2300,
+    "defensa": 2100,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 357,
+    "nombre": "Yamadron",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Dragon",
+    "nivel": 5,
+    "atk": 1600,
+    "defensa": 1800,
+    "estrellas_guardianas": [
+      "Mars",
+      "Uranus"
+    ]
+  },
+  {
+    "numero": 358,
+    "nombre": "Seiyaryu",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Dragon",
+    "nivel": 7,
+    "atk": 2500,
+    "defensa": 2300,
+    "estrellas_guardianas": [
+      "Sun",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 359,
+    "nombre": "Three-legged Zombies",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Zombie",
+    "nivel": 3,
+    "atk": 1100,
+    "defensa": 800,
+    "estrellas_guardianas": [
+      "Moon",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 360,
+    "nombre": "Zera The Mant",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 8,
+    "atk": 2800,
+    "defensa": 2300,
+    "estrellas_guardianas": [
+      "Moon",
+      "Saturn"
+    ]
+  },
+  {
+    "numero": 361,
+    "nombre": "Flying Penguin",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 4,
+    "atk": 1200,
+    "defensa": 1000,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 362,
+    "nombre": "Millennium Shield",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 5,
+    "atk": 0,
+    "defensa": 3000,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 363,
+    "nombre": "Fairy's Gift",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Spellcaster",
+    "nivel": 4,
+    "atk": 1400,
+    "defensa": 1000,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 364,
+    "nombre": "Black Luster Soldier",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 8,
+    "atk": 3000,
+    "defensa": 2500,
+    "estrellas_guardianas": [
+      "Moon",
+      "Uranus"
+    ]
+  },
+  {
+    "numero": 365,
+    "nombre": "Fiend's Mirror",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 6,
+    "atk": 2100,
+    "defensa": 1800,
+    "estrellas_guardianas": [
+      "Venus",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 366,
+    "nombre": "Labyrinth Wall",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Rock",
+    "nivel": 5,
+    "atk": 0,
+    "defensa": 3000,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 367,
+    "nombre": "Jirai Gumo",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Insect",
+    "nivel": 4,
+    "atk": 2200,
+    "defensa": 100,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Uranus"
+    ]
+  },
+  {
+    "numero": 368,
+    "nombre": "Shadow Ghoul",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Zombie",
+    "nivel": 5,
+    "atk": 1600,
+    "defensa": 1300,
+    "estrellas_guardianas": [
+      "Moon",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 369,
+    "nombre": "Wall Shadow",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 7,
+    "atk": 1600,
+    "defensa": 3000,
+    "estrellas_guardianas": [
+      "Moon",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 370,
+    "nombre": "Labyrinth Tank",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Machine",
+    "nivel": 7,
+    "atk": 2400,
+    "defensa": 2400,
+    "estrellas_guardianas": [
+      "Moon",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 371,
+    "nombre": "Sanga of the Thunder",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Thunder",
+    "nivel": 7,
+    "atk": 2600,
+    "defensa": 2200,
+    "estrellas_guardianas": [
+      "Pluto",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 372,
+    "nombre": "Kazejin",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Spellcaster",
+    "nivel": 7,
+    "atk": 2400,
+    "defensa": 2200,
+    "estrellas_guardianas": [
+      "Saturn",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 373,
+    "nombre": "Suijin",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 7,
+    "atk": 2500,
+    "defensa": 2400,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Saturn"
+    ]
+  },
+  {
+    "numero": 374,
+    "nombre": "Gate Guardian",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 11,
+    "atk": 3750,
+    "defensa": 3400,
+    "estrellas_guardianas": [
+      "Moon",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 375,
+    "nombre": "Dungeon Worm",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Insect",
+    "nivel": 5,
+    "atk": 1800,
+    "defensa": 1500,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 376,
+    "nombre": "Monster Tamer",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 5,
+    "atk": 1800,
+    "defensa": 1600,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 377,
+    "nombre": "Ryu-kishin Powered",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 4,
+    "atk": 1600,
+    "defensa": 1200,
+    "estrellas_guardianas": [
+      "Moon",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 378,
+    "nombre": "Swordstalker",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 6,
+    "atk": 2000,
+    "defensa": 1600,
+    "estrellas_guardianas": [
+      "Moon",
+      "Saturn"
+    ]
+  },
+  {
+    "numero": 379,
+    "nombre": "La Jinn the Mystical Genie",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 4,
+    "atk": 1800,
+    "defensa": 1000,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Saturn"
+    ]
+  },
+  {
+    "numero": 380,
+    "nombre": "Blue-eyes Ultimate Dragon",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Dragon",
+    "nivel": 12,
+    "atk": 4500,
+    "defensa": 3800,
+    "estrellas_guardianas": [
+      "Sun",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 381,
+    "nombre": "Toon Alligator",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Reptile",
+    "nivel": 4,
+    "atk": 800,
+    "defensa": 1600,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 382,
+    "nombre": "Rude Kaiser",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Beast-Warrior",
+    "nivel": 5,
+    "atk": 1800,
+    "defensa": 1600,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Sun"
+    ]
+  },
+  {
+    "numero": 383,
+    "nombre": "Parrot Dragon",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Dragon",
+    "nivel": 5,
+    "atk": 2000,
+    "defensa": 1300,
+    "estrellas_guardianas": [
+      "Saturn",
+      "Sun"
+    ]
+  },
+  {
+    "numero": 384,
+    "nombre": "Dark Rabbit",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Beast",
+    "nivel": 4,
+    "atk": 1100,
+    "defensa": 1500,
+    "estrellas_guardianas": [
+      "Moon",
+      "Uranus"
+    ]
+  },
+  {
+    "numero": 385,
+    "nombre": "Bickuribox",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 7,
+    "atk": 2300,
+    "defensa": 2000,
+    "estrellas_guardianas": [
+      "Moon",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 386,
+    "nombre": "Harpie's Pet Dragon",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Dragon",
+    "nivel": 7,
+    "atk": 2000,
+    "defensa": 2500,
+    "estrellas_guardianas": [
+      "Saturn",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 387,
+    "nombre": "Mystic Lamp",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Spellcaster",
+    "nivel": 1,
+    "atk": 400,
+    "defensa": 300,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Uranus"
+    ]
+  },
+  {
+    "numero": 388,
+    "nombre": "Pendulum Machine",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Machine",
+    "nivel": 6,
+    "atk": 1750,
+    "defensa": 2000,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 389,
+    "nombre": "Giltia the D. Knight",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 5,
+    "atk": 1850,
+    "defensa": 1500,
+    "estrellas_guardianas": [
+      "Sun",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 390,
+    "nombre": "Launcher Spider",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Machine",
+    "nivel": 7,
+    "atk": 2200,
+    "defensa": 2500,
+    "estrellas_guardianas": [
+      "Mars",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 391,
+    "nombre": "Zoa",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 7,
+    "atk": 2600,
+    "defensa": 1900,
+    "estrellas_guardianas": [
+      "Moon",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 392,
+    "nombre": "Metalzoa",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Machine",
+    "nivel": 8,
+    "atk": 3000,
+    "defensa": 2300,
+    "estrellas_guardianas": [
+      "Moon",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 393,
+    "nombre": "Zone Eater",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 1,
+    "atk": 250,
+    "defensa": 200,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Sun"
+    ]
+  },
+  {
+    "numero": 394,
+    "nombre": "Steel Scorpion",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Machine",
+    "nivel": 1,
+    "atk": 250,
+    "defensa": 300,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 395,
+    "nombre": "Dancing Elf",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fairy",
+    "nivel": 1,
+    "atk": 300,
+    "defensa": 200,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Sun"
+    ]
+  },
+  {
+    "numero": 396,
+    "nombre": "Ocubeam",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fairy",
+    "nivel": 5,
+    "atk": 1550,
+    "defensa": 1650,
+    "estrellas_guardianas": [
+      "Saturn",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 397,
+    "nombre": "Leghul",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Insect",
+    "nivel": 1,
+    "atk": 300,
+    "defensa": 350,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 398,
+    "nombre": "Ooguchi",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 1,
+    "atk": 300,
+    "defensa": 250,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 399,
+    "nombre": "Swordsman from a Foreign Land",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 1,
+    "atk": 250,
+    "defensa": 250,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 400,
+    "nombre": "Emperor of the Land and Sea",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Reptile",
+    "nivel": 5,
+    "atk": 1800,
+    "defensa": 1500,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 401,
+    "nombre": "Ushi Oni",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 6,
+    "atk": 2150,
+    "defensa": 1950,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 402,
+    "nombre": "Monster Eye",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 1,
+    "atk": 250,
+    "defensa": 350,
+    "estrellas_guardianas": [
+      "Moon",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 403,
+    "nombre": "Leogun",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Beast",
+    "nivel": 5,
+    "atk": 1750,
+    "defensa": 1550,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 404,
+    "nombre": "Tatsunootoshigo",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Beast",
+    "nivel": 5,
+    "atk": 1350,
+    "defensa": 1600,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 405,
+    "nombre": "Saber Slasher",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Machine",
+    "nivel": 5,
+    "atk": 1450,
+    "defensa": 1500,
+    "estrellas_guardianas": [
+      "Moon",
+      "Saturn"
+    ]
+  },
+  {
+    "numero": 406,
+    "nombre": "Yaiba Robo",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Machine",
+    "nivel": 4,
+    "atk": 1000,
+    "defensa": 1300,
+    "estrellas_guardianas": [
+      "Moon",
+      "Uranus"
+    ]
+  },
+  {
+    "numero": 407,
+    "nombre": "Machine King",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Machine",
+    "nivel": 6,
+    "atk": 2200,
+    "defensa": 2000,
+    "estrellas_guardianas": [
+      "Mars",
+      "Sun"
+    ]
+  },
+  {
+    "numero": 408,
+    "nombre": "Giant Mech-soldier",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Machine",
+    "nivel": 6,
+    "atk": 1750,
+    "defensa": 1900,
+    "estrellas_guardianas": [
+      "Moon",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 409,
+    "nombre": "Metal Dragon",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Machine",
+    "nivel": 6,
+    "atk": 1850,
+    "defensa": 1700,
+    "estrellas_guardianas": [
+      "Mars",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 410,
+    "nombre": "Mechanical Spider",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Machine",
+    "nivel": 2,
+    "atk": 400,
+    "defensa": 500,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 411,
+    "nombre": "Bat",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Machine",
+    "nivel": 1,
+    "atk": 300,
+    "defensa": 350,
+    "estrellas_guardianas": [
+      "Moon",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 412,
+    "nombre": "Giga-tech Wolf",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Machine",
+    "nivel": 4,
+    "atk": 1200,
+    "defensa": 1400,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Uranus"
+    ]
+  },
+  {
+    "numero": 413,
+    "nombre": "Cyber Soldier",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Machine",
+    "nivel": 5,
+    "atk": 1500,
+    "defensa": 1700,
+    "estrellas_guardianas": [
+      "Moon",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 414,
+    "nombre": "Shovel Crusher",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Machine",
+    "nivel": 3,
+    "atk": 900,
+    "defensa": 1200,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 415,
+    "nombre": "Mechanicalchacer",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Machine",
+    "nivel": 4,
+    "atk": 1850,
+    "defensa": 800,
+    "estrellas_guardianas": [
+      "Moon",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 416,
+    "nombre": "Blocker",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Machine",
+    "nivel": 4,
+    "atk": 850,
+    "defensa": 1800,
+    "estrellas_guardianas": [
+      "Moon",
+      "Saturn"
+    ]
+  },
+  {
+    "numero": 417,
+    "nombre": "Blast Juggler",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Machine",
+    "nivel": 3,
+    "atk": 800,
+    "defensa": 900,
+    "estrellas_guardianas": [
+      "Mars",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 418,
+    "nombre": "Golgoil",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Machine",
+    "nivel": 4,
+    "atk": 900,
+    "defensa": 1600,
+    "estrellas_guardianas": [
+      "Venus",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 419,
+    "nombre": "Giganto",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Machine",
+    "nivel": 5,
+    "atk": 1700,
+    "defensa": 1800,
+    "estrellas_guardianas": [
+      "Moon",
+      "Uranus"
+    ]
+  },
+  {
+    "numero": 420,
+    "nombre": "Cyber-Stein",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Machine",
+    "nivel": 2,
+    "atk": 700,
+    "defensa": 500,
+    "estrellas_guardianas": [
+      "Moon",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 421,
+    "nombre": "Cyber Commander",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Machine",
+    "nivel": 2,
+    "atk": 750,
+    "defensa": 700,
+    "estrellas_guardianas": [
+      "Moon",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 422,
+    "nombre": "Jinzo 7",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Machine",
+    "nivel": 2,
+    "atk": 500,
+    "defensa": 400,
+    "estrellas_guardianas": [
+      "Moon",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 423,
+    "nombre": "Dice Armadillo",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Machine",
+    "nivel": 5,
+    "atk": 1650,
+    "defensa": 1800,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 424,
+    "nombre": "Sky Dragon",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Dragon",
+    "nivel": 6,
+    "atk": 1900,
+    "defensa": 1800,
+    "estrellas_guardianas": [
+      "Saturn",
+      "Uranus"
+    ]
+  },
+  {
+    "numero": 425,
+    "nombre": "Thunder Dragon",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Thunder",
+    "nivel": 5,
+    "atk": 1600,
+    "defensa": 1500,
+    "estrellas_guardianas": [
+      "Pluto",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 426,
+    "nombre": "Stone D.",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Rock",
+    "nivel": 7,
+    "atk": 2000,
+    "defensa": 2300,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 427,
+    "nombre": "Kaiser Dragon",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Dragon",
+    "nivel": 7,
+    "atk": 2300,
+    "defensa": 2000,
+    "estrellas_guardianas": [
+      "Sun",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 428,
+    "nombre": "Magician of Faith",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Spellcaster",
+    "nivel": 1,
+    "atk": 300,
+    "defensa": 400,
+    "estrellas_guardianas": [
+      "Sun",
+      "Saturn"
+    ]
+  },
+  {
+    "numero": 429,
+    "nombre": "Goddess of Whim",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fairy",
+    "nivel": 3,
+    "atk": 950,
+    "defensa": 700,
+    "estrellas_guardianas": [
+      "Sun",
+      "Uranus"
+    ]
+  },
+  {
+    "numero": 430,
+    "nombre": "Water Magician",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 4,
+    "atk": 1400,
+    "defensa": 1000,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 431,
+    "nombre": "Ice Water",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 3,
+    "atk": 1150,
+    "defensa": 900,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 432,
+    "nombre": "Waterdragon Fairy",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 3,
+    "atk": 1100,
+    "defensa": 700,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 433,
+    "nombre": "Ancient Elf",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Spellcaster",
+    "nivel": 4,
+    "atk": 1450,
+    "defensa": 1200,
+    "estrellas_guardianas": [
+      "Sun",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 434,
+    "nombre": "Beautiful Beast Trainer",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 5,
+    "atk": 1750,
+    "defensa": 1500,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 435,
+    "nombre": "Water Girl",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 4,
+    "atk": 1250,
+    "defensa": 1000,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 436,
+    "nombre": "White Dolphin",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fish",
+    "nivel": 2,
+    "atk": 500,
+    "defensa": 400,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 437,
+    "nombre": "Deepsea Shark",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fish",
+    "nivel": 5,
+    "atk": 1900,
+    "defensa": 1600,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 438,
+    "nombre": "Metal Fish",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Machine",
+    "nivel": 5,
+    "atk": 1600,
+    "defensa": 1900,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Saturn"
+    ]
+  },
+  {
+    "numero": 439,
+    "nombre": "Bottom Dweller",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fish",
+    "nivel": 5,
+    "atk": 1650,
+    "defensa": 1700,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Sun"
+    ]
+  },
+  {
+    "numero": 440,
+    "nombre": "7 Colored Fish",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fish",
+    "nivel": 4,
+    "atk": 1800,
+    "defensa": 800,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Sun"
+    ]
+  },
+  {
+    "numero": 441,
+    "nombre": "Mech Bass",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Machine",
+    "nivel": 5,
+    "atk": 1800,
+    "defensa": 1500,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 442,
+    "nombre": "Aqua Dragon",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Sea Serpent",
+    "nivel": 6,
+    "atk": 2250,
+    "defensa": 1900,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 443,
+    "nombre": "Sea King Dragon",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Sea Serpent",
+    "nivel": 6,
+    "atk": 2000,
+    "defensa": 1700,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 444,
+    "nombre": "Turu-Purun",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 2,
+    "atk": 450,
+    "defensa": 500,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 445,
+    "nombre": "Guardian of the Sea",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 4,
+    "atk": 1300,
+    "defensa": 1000,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 446,
+    "nombre": "Aqua Snake",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 3,
+    "atk": 1050,
+    "defensa": 900,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Saturn"
+    ]
+  },
+  {
+    "numero": 447,
+    "nombre": "Giant Red Seasnake",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 4,
+    "atk": 1800,
+    "defensa": 800,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Sun"
+    ]
+  },
+  {
+    "numero": 448,
+    "nombre": "Spike Seadra",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Sea Serpent",
+    "nivel": 5,
+    "atk": 1600,
+    "defensa": 1300,
+    "estrellas_guardianas": [
+      "Pluto",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 449,
+    "nombre": "30,000-Year White Turtle",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 5,
+    "atk": 1250,
+    "defensa": 2100,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 450,
+    "nombre": "Kappa Avenger",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 3,
+    "atk": 1200,
+    "defensa": 900,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 451,
+    "nombre": "Kanikabuto",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 3,
+    "atk": 650,
+    "defensa": 900,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Saturn"
+    ]
+  },
+  {
+    "numero": 452,
+    "nombre": "Zarigun",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 2,
+    "atk": 600,
+    "defensa": 700,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 453,
+    "nombre": "Millennium Golem",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Rock",
+    "nivel": 6,
+    "atk": 2000,
+    "defensa": 2200,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 454,
+    "nombre": "Destroyer Golem",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Rock",
+    "nivel": 4,
+    "atk": 1500,
+    "defensa": 1000,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Sun"
+    ]
+  },
+  {
+    "numero": 455,
+    "nombre": "Barrel Rock",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Rock",
+    "nivel": 4,
+    "atk": 1000,
+    "defensa": 1300,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 456,
+    "nombre": "Minomushi Warrior",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Rock",
+    "nivel": 4,
+    "atk": 1300,
+    "defensa": 1200,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 457,
+    "nombre": "Stone Ghost",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Rock",
+    "nivel": 4,
+    "atk": 1200,
+    "defensa": 1000,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 458,
+    "nombre": "Kaminari Attack",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Thunder",
+    "nivel": 5,
+    "atk": 1900,
+    "defensa": 1400,
+    "estrellas_guardianas": [
+      "Pluto",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 459,
+    "nombre": "Tripwire Beast",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Thunder",
+    "nivel": 4,
+    "atk": 1200,
+    "defensa": 1300,
+    "estrellas_guardianas": [
+      "Pluto",
+      "Saturn"
+    ]
+  },
+  {
+    "numero": 460,
+    "nombre": "Bolt Escargot",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Thunder",
+    "nivel": 5,
+    "atk": 1400,
+    "defensa": 1500,
+    "estrellas_guardianas": [
+      "Pluto",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 461,
+    "nombre": "Bolt Penguin",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Thunder",
+    "nivel": 3,
+    "atk": 1100,
+    "defensa": 800,
+    "estrellas_guardianas": [
+      "Pluto",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 462,
+    "nombre": "The Immortal of Thunder",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Thunder",
+    "nivel": 4,
+    "atk": 1500,
+    "defensa": 1300,
+    "estrellas_guardianas": [
+      "Pluto",
+      "Sun"
+    ]
+  },
+  {
+    "numero": 463,
+    "nombre": "Electric Snake",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Thunder",
+    "nivel": 3,
+    "atk": 800,
+    "defensa": 900,
+    "estrellas_guardianas": [
+      "Pluto",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 464,
+    "nombre": "Wing Eagle",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Winged Beast",
+    "nivel": 5,
+    "atk": 1800,
+    "defensa": 1500,
+    "estrellas_guardianas": [
+      "Saturn",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 465,
+    "nombre": "Punished Eagle",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Winged Beast",
+    "nivel": 6,
+    "atk": 2100,
+    "defensa": 1800,
+    "estrellas_guardianas": [
+      "Saturn",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 466,
+    "nombre": "Skull Red Bird",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Winged Beast",
+    "nivel": 4,
+    "atk": 1550,
+    "defensa": 1200,
+    "estrellas_guardianas": [
+      "Saturn",
+      "Sun"
+    ]
+  },
+  {
+    "numero": 467,
+    "nombre": "Crimson Sunbird",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Winged Beast",
+    "nivel": 6,
+    "atk": 2300,
+    "defensa": 1800,
+    "estrellas_guardianas": [
+      "Mars",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 468,
+    "nombre": "Queen Bird",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Winged Beast",
+    "nivel": 5,
+    "atk": 1200,
+    "defensa": 2000,
+    "estrellas_guardianas": [
+      "Saturn",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 469,
+    "nombre": "Armed Ninja",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 1,
+    "atk": 300,
+    "defensa": 300,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 470,
+    "nombre": "Magical Ghost",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Zombie",
+    "nivel": 4,
+    "atk": 1300,
+    "defensa": 1400,
+    "estrellas_guardianas": [
+      "Moon",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 471,
+    "nombre": "Soul Hunter",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 6,
+    "atk": 2200,
+    "defensa": 1800,
+    "estrellas_guardianas": [
+      "Moon",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 472,
+    "nombre": "Air Eater",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 6,
+    "atk": 2100,
+    "defensa": 1600,
+    "estrellas_guardianas": [
+      "Moon",
+      "Saturn"
+    ]
+  },
+  {
+    "numero": 473,
+    "nombre": "Vermillion Sparrow",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Pyro",
+    "nivel": 5,
+    "atk": 1900,
+    "defensa": 1500,
+    "estrellas_guardianas": [
+      "Mars",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 474,
+    "nombre": "Sea Kamen",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 4,
+    "atk": 1100,
+    "defensa": 1300,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Sun"
+    ]
+  },
+  {
+    "numero": 475,
+    "nombre": "Sinister Serpent",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Reptile",
+    "nivel": 1,
+    "atk": 300,
+    "defensa": 250,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 476,
+    "nombre": "Ganigumo",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Insect",
+    "nivel": 2,
+    "atk": 600,
+    "defensa": 800,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Sun"
+    ]
+  },
+  {
+    "numero": 477,
+    "nombre": "Alinsection",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Insect",
+    "nivel": 3,
+    "atk": 950,
+    "defensa": 700,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 478,
+    "nombre": "Insect Soldiers of the Sky",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Insect",
+    "nivel": 3,
+    "atk": 1000,
+    "defensa": 800,
+    "estrellas_guardianas": [
+      "Saturn",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 479,
+    "nombre": "Cockroach Knight",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Insect",
+    "nivel": 3,
+    "atk": 800,
+    "defensa": 900,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 480,
+    "nombre": "Kuwagata α",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Insect",
+    "nivel": 4,
+    "atk": 1250,
+    "defensa": 1000,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 481,
+    "nombre": "Burglar",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Beast",
+    "nivel": 3,
+    "atk": 850,
+    "defensa": 800,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Uranus"
+    ]
+  },
+  {
+    "numero": 482,
+    "nombre": "Pragtical",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Dinosaur",
+    "nivel": 5,
+    "atk": 1900,
+    "defensa": 1500,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 483,
+    "nombre": "Garvas",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Beast",
+    "nivel": 6,
+    "atk": 2000,
+    "defensa": 1700,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 484,
+    "nombre": "Ameba",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 1,
+    "atk": 300,
+    "defensa": 350,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 485,
+    "nombre": "Korogashi",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Insect",
+    "nivel": 2,
+    "atk": 550,
+    "defensa": 400,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 486,
+    "nombre": "Boo Koo",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Spellcaster",
+    "nivel": 2,
+    "atk": 650,
+    "defensa": 500,
+    "estrellas_guardianas": [
+      "Sun",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 487,
+    "nombre": "Flower Wolf",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Beast",
+    "nivel": 5,
+    "atk": 1800,
+    "defensa": 1400,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Sun"
+    ]
+  },
+  {
+    "numero": 488,
+    "nombre": "Rainbow Flower",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Plant",
+    "nivel": 2,
+    "atk": 400,
+    "defensa": 500,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 489,
+    "nombre": "Barrel Lily",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Plant",
+    "nivel": 3,
+    "atk": 1100,
+    "defensa": 600,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 490,
+    "nombre": "Needle Ball",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 2,
+    "atk": 750,
+    "defensa": 700,
+    "estrellas_guardianas": [
+      "Moon",
+      "Uranus"
+    ]
+  },
+  {
+    "numero": 491,
+    "nombre": "Peacock",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Winged Beast",
+    "nivel": 5,
+    "atk": 1700,
+    "defensa": 1500,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 492,
+    "nombre": "Hoshiningen",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fairy",
+    "nivel": 2,
+    "atk": 500,
+    "defensa": 700,
+    "estrellas_guardianas": [
+      "Sun",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 493,
+    "nombre": "Maha Vailo",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Spellcaster",
+    "nivel": 5,
+    "atk": 1550,
+    "defensa": 1400,
+    "estrellas_guardianas": [
+      "Sun",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 494,
+    "nombre": "Rainbow Marine Mermaid",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fish",
+    "nivel": 5,
+    "atk": 1550,
+    "defensa": 1700,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 495,
+    "nombre": "Musician King",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Spellcaster",
+    "nivel": 5,
+    "atk": 1750,
+    "defensa": 1500,
+    "estrellas_guardianas": [
+      "Sun",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 496,
+    "nombre": "Wilmee",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Beast",
+    "nivel": 4,
+    "atk": 1000,
+    "defensa": 1200,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Uranus"
+    ]
+  },
+  {
+    "numero": 497,
+    "nombre": "Yado Karu",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 4,
+    "atk": 900,
+    "defensa": 1700,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 498,
+    "nombre": "Morinphen",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 5,
+    "atk": 1550,
+    "defensa": 1300,
+    "estrellas_guardianas": [
+      "Moon",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 499,
+    "nombre": "Kattapillar",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Insect",
+    "nivel": 1,
+    "atk": 250,
+    "defensa": 300,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 500,
+    "nombre": "Dragon Seeker",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 6,
+    "atk": 2000,
+    "defensa": 2100,
+    "estrellas_guardianas": [
+      "Moon",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 501,
+    "nombre": "Man-eater Bug",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Insect",
+    "nivel": 2,
+    "atk": 450,
+    "defensa": 600,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 502,
+    "nombre": "D. Human",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 4,
+    "atk": 1300,
+    "defensa": 1100,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 503,
+    "nombre": "Turtle Raccoon",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 3,
+    "atk": 700,
+    "defensa": 900,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Sun"
+    ]
+  },
+  {
+    "numero": 504,
+    "nombre": "Fungi of the Musk",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 1,
+    "atk": 400,
+    "defensa": 300,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 505,
+    "nombre": "Prisman",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Rock",
+    "nivel": 3,
+    "atk": 800,
+    "defensa": 1000,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 506,
+    "nombre": "Gale Dogra",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Insect",
+    "nivel": 2,
+    "atk": 650,
+    "defensa": 600,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 507,
+    "nombre": "Crazy Fish",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fish",
+    "nivel": 4,
+    "atk": 1600,
+    "defensa": 1200,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 508,
+    "nombre": "Cyber Saurus",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Machine",
+    "nivel": 5,
+    "atk": 1800,
+    "defensa": 1400,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Sun"
+    ]
+  },
+  {
+    "numero": 509,
+    "nombre": "Bracchio-raidus",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Dinosaur",
+    "nivel": 6,
+    "atk": 2200,
+    "defensa": 2000,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 510,
+    "nombre": "Laughing Flower",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Plant",
+    "nivel": 2,
+    "atk": 900,
+    "defensa": 500,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 511,
+    "nombre": "Bean Soldier",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Plant",
+    "nivel": 4,
+    "atk": 1400,
+    "defensa": 1300,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Uranus"
+    ]
+  },
+  {
+    "numero": 512,
+    "nombre": "Cannon Soldier",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Machine",
+    "nivel": 4,
+    "atk": 1400,
+    "defensa": 1300,
+    "estrellas_guardianas": [
+      "Moon",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 513,
+    "nombre": "Guardian of the Throne Room",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Machine",
+    "nivel": 5,
+    "atk": 1650,
+    "defensa": 1600,
+    "estrellas_guardianas": [
+      "Sun",
+      "Saturn"
+    ]
+  },
+  {
+    "numero": 514,
+    "nombre": "Brave Scizzar",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Machine",
+    "nivel": 4,
+    "atk": 1300,
+    "defensa": 1000,
+    "estrellas_guardianas": [
+      "Moon",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 515,
+    "nombre": "The Statue of Easter Island",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Rock",
+    "nivel": 4,
+    "atk": 1100,
+    "defensa": 1400,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 516,
+    "nombre": "Muka Muka",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Rock",
+    "nivel": 2,
+    "atk": 600,
+    "defensa": 300,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 517,
+    "nombre": "Sand Stone",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Rock",
+    "nivel": 5,
+    "atk": 1300,
+    "defensa": 1600,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 518,
+    "nombre": "Boulder Tortoise",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 6,
+    "atk": 1450,
+    "defensa": 2200,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 519,
+    "nombre": "Fire Kraken",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 5,
+    "atk": 1600,
+    "defensa": 1500,
+    "estrellas_guardianas": [
+      "Mars",
+      "Saturn"
+    ]
+  },
+  {
+    "numero": 520,
+    "nombre": "Turtle Bird",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 6,
+    "atk": 1900,
+    "defensa": 1700,
+    "estrellas_guardianas": [
+      "Saturn",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 521,
+    "nombre": "Skullbird",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Winged Beast",
+    "nivel": 6,
+    "atk": 1900,
+    "defensa": 1700,
+    "estrellas_guardianas": [
+      "Saturn",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 522,
+    "nombre": "Monstrous Bird",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Winged Beast",
+    "nivel": 6,
+    "atk": 2000,
+    "defensa": 1900,
+    "estrellas_guardianas": [
+      "Saturn",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 523,
+    "nombre": "The Bistro Butcher",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 4,
+    "atk": 1800,
+    "defensa": 1000,
+    "estrellas_guardianas": [
+      "Moon",
+      "Saturn"
+    ]
+  },
+  {
+    "numero": 524,
+    "nombre": "Star Boy",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 2,
+    "atk": 550,
+    "defensa": 500,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 525,
+    "nombre": "Spirit of the Mountain",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Spellcaster",
+    "nivel": 5,
+    "atk": 1300,
+    "defensa": 1800,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 526,
+    "nombre": "Neck Hunter",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 6,
+    "atk": 1750,
+    "defensa": 1900,
+    "estrellas_guardianas": [
+      "Moon",
+      "Uranus"
+    ]
+  },
+  {
+    "numero": 527,
+    "nombre": "Milus Radiant",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Beast",
+    "nivel": 1,
+    "atk": 300,
+    "defensa": 250,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 528,
+    "nombre": "Togex",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Beast",
+    "nivel": 5,
+    "atk": 1600,
+    "defensa": 1800,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Sun"
+    ]
+  },
+  {
+    "numero": 529,
+    "nombre": "Flame Cerebrus",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Pyro",
+    "nivel": 6,
+    "atk": 2100,
+    "defensa": 1800,
+    "estrellas_guardianas": [
+      "Mars",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 530,
+    "nombre": "Eldeen",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Spellcaster",
+    "nivel": 3,
+    "atk": 950,
+    "defensa": 1000,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 531,
+    "nombre": "Mystical Sand",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Rock",
+    "nivel": 6,
+    "atk": 2100,
+    "defensa": 1700,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Saturn"
+    ]
+  },
+  {
+    "numero": 532,
+    "nombre": "Gemini Elf",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Spellcaster",
+    "nivel": 4,
+    "atk": 1900,
+    "defensa": 900,
+    "estrellas_guardianas": [
+      "Sun",
+      "Uranus"
+    ]
+  },
+  {
+    "numero": 533,
+    "nombre": "Kwagar Hercules",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Insect",
+    "nivel": 6,
+    "atk": 1900,
+    "defensa": 1700,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Sun"
+    ]
+  },
+  {
+    "numero": 534,
+    "nombre": "Minar",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Insect",
+    "nivel": 3,
+    "atk": 850,
+    "defensa": 750,
+    "estrellas_guardianas": [
+      "Moon",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 535,
+    "nombre": "Kamakiriman",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Insect",
+    "nivel": 4,
+    "atk": 1150,
+    "defensa": 1400,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 536,
+    "nombre": "Mechaleon",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Reptile",
+    "nivel": 2,
+    "atk": 800,
+    "defensa": 600,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Saturn"
+    ]
+  },
+  {
+    "numero": 537,
+    "nombre": "Mega Thunderball",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Thunder",
+    "nivel": 2,
+    "atk": 750,
+    "defensa": 600,
+    "estrellas_guardianas": [
+      "Pluto",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 538,
+    "nombre": "Niwatori",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Winged Beast",
+    "nivel": 3,
+    "atk": 900,
+    "defensa": 800,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 539,
+    "nombre": "Corroding Shark",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Zombie",
+    "nivel": 3,
+    "atk": 1100,
+    "defensa": 700,
+    "estrellas_guardianas": [
+      "Moon",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 540,
+    "nombre": "Skelengel",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fairy",
+    "nivel": 2,
+    "atk": 900,
+    "defensa": 400,
+    "estrellas_guardianas": [
+      "Sun",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 541,
+    "nombre": "Hane-Hane",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Beast",
+    "nivel": 2,
+    "atk": 450,
+    "defensa": 500,
+    "estrellas_guardianas": [
+      "Saturn",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 542,
+    "nombre": "Misairuzame",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fish",
+    "nivel": 5,
+    "atk": 1400,
+    "defensa": 1600,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Sun"
+    ]
+  },
+  {
+    "numero": 543,
+    "nombre": "Tongyo",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fish",
+    "nivel": 4,
+    "atk": 1350,
+    "defensa": 800,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 544,
+    "nombre": "Dharma Cannon",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Machine",
+    "nivel": 2,
+    "atk": 900,
+    "defensa": 500,
+    "estrellas_guardianas": [
+      "Moon",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 545,
+    "nombre": "Skelgon",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Zombie",
+    "nivel": 6,
+    "atk": 1700,
+    "defensa": 1900,
+    "estrellas_guardianas": [
+      "Moon",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 546,
+    "nombre": "Wow Warrior",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fish",
+    "nivel": 4,
+    "atk": 1250,
+    "defensa": 900,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 547,
+    "nombre": "Griggle",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Plant",
+    "nivel": 1,
+    "atk": 350,
+    "defensa": 300,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 548,
+    "nombre": "Bone Mouse",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Zombie",
+    "nivel": 1,
+    "atk": 400,
+    "defensa": 300,
+    "estrellas_guardianas": [
+      "Moon",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 549,
+    "nombre": "Frog The Jam",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 2,
+    "atk": 700,
+    "defensa": 500,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 550,
+    "nombre": "Behegon",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 4,
+    "atk": 1350,
+    "defensa": 1000,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Saturn"
+    ]
+  },
+  {
+    "numero": 551,
+    "nombre": "Dark Elf",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Spellcaster",
+    "nivel": 4,
+    "atk": 2000,
+    "defensa": 800,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 552,
+    "nombre": "Winged Dragon 2",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Winged Beast",
+    "nivel": 4,
+    "atk": 1200,
+    "defensa": 1000,
+    "estrellas_guardianas": [
+      "Saturn",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 553,
+    "nombre": "Mushroom Man 2",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 3,
+    "atk": 1250,
+    "defensa": 800,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Uranus"
+    ]
+  },
+  {
+    "numero": 554,
+    "nombre": "Lava Battleguard",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 5,
+    "atk": 1550,
+    "defensa": 1800,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 555,
+    "nombre": "Tyhone 2",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Dragon",
+    "nivel": 6,
+    "atk": 1700,
+    "defensa": 1900,
+    "estrellas_guardianas": [
+      "Mars",
+      "Uranus"
+    ]
+  },
+  {
+    "numero": 556,
+    "nombre": "The Wandering Doomed",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Zombie",
+    "nivel": 2,
+    "atk": 800,
+    "defensa": 600,
+    "estrellas_guardianas": [
+      "Moon",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 557,
+    "nombre": "Steel Ogre Grotto 1",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Machine",
+    "nivel": 5,
+    "atk": 1400,
+    "defensa": 1800,
+    "estrellas_guardianas": [
+      "Moon",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 558,
+    "nombre": "Pot the Trick",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Rock",
+    "nivel": 2,
+    "atk": 400,
+    "defensa": 400,
+    "estrellas_guardianas": [
+      "Moon",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 559,
+    "nombre": "Oscillo Hero",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 3,
+    "atk": 1250,
+    "defensa": 700,
+    "estrellas_guardianas": [
+      "Venus",
+      "Sun"
+    ]
+  },
+  {
+    "numero": 560,
+    "nombre": "Invader from Another Dimension",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 4,
+    "atk": 950,
+    "defensa": 1400,
+    "estrellas_guardianas": [
+      "Venus",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 561,
+    "nombre": "Lesser Dragon",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Dragon",
+    "nivel": 4,
+    "atk": 1200,
+    "defensa": 1000,
+    "estrellas_guardianas": [
+      "Moon",
+      "Saturn"
+    ]
+  },
+  {
+    "numero": 562,
+    "nombre": "Needle Worm",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Insect",
+    "nivel": 2,
+    "atk": 750,
+    "defensa": 600,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 563,
+    "nombre": "Wretched Ghost of the Attic",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 2,
+    "atk": 550,
+    "defensa": 400,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Uranus"
+    ]
+  },
+  {
+    "numero": 564,
+    "nombre": "Great Mammoth of Goldfine",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Zombie",
+    "nivel": 6,
+    "atk": 2200,
+    "defensa": 1800,
+    "estrellas_guardianas": [
+      "Moon",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 565,
+    "nombre": "Man-eating Black Shark",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fish",
+    "nivel": 5,
+    "atk": 2100,
+    "defensa": 1300,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Sun"
+    ]
+  },
+  {
+    "numero": 566,
+    "nombre": "Yormungarde",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Reptile",
+    "nivel": 3,
+    "atk": 1200,
+    "defensa": 900,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 567,
+    "nombre": "Darkworld Thorns",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Plant",
+    "nivel": 3,
+    "atk": 1200,
+    "defensa": 900,
+    "estrellas_guardianas": [
+      "Moon",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 568,
+    "nombre": "Anthrosaurus",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Dinosaur",
+    "nivel": 3,
+    "atk": 1000,
+    "defensa": 850,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 569,
+    "nombre": "Drooling Lizard",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Reptile",
+    "nivel": 3,
+    "atk": 900,
+    "defensa": 800,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 570,
+    "nombre": "Trakadon",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Dinosaur",
+    "nivel": 3,
+    "atk": 1300,
+    "defensa": 800,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 571,
+    "nombre": "B. Dragon Jungle King",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Dragon",
+    "nivel": 6,
+    "atk": 2100,
+    "defensa": 1800,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 572,
+    "nombre": "Empress Judge",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 6,
+    "atk": 2100,
+    "defensa": 1700,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 573,
+    "nombre": "Little D",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Dinosaur",
+    "nivel": 3,
+    "atk": 1100,
+    "defensa": 700,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 574,
+    "nombre": "Witch of the Black Forest",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Spellcaster",
+    "nivel": 4,
+    "atk": 1100,
+    "defensa": 1200,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 575,
+    "nombre": "Ancient One of the Deep Forest",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Beast",
+    "nivel": 6,
+    "atk": 1800,
+    "defensa": 1900,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Sun"
+    ]
+  },
+  {
+    "numero": 576,
+    "nombre": "Giant Scorpion of the Tundra",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Insect",
+    "nivel": 3,
+    "atk": 1100,
+    "defensa": 1000,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 577,
+    "nombre": "Crow Goblin",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Winged Beast",
+    "nivel": 5,
+    "atk": 1850,
+    "defensa": 1600,
+    "estrellas_guardianas": [
+      "Saturn",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 578,
+    "nombre": "Leo Wizard",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Spellcaster",
+    "nivel": 5,
+    "atk": 1350,
+    "defensa": 1200,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 579,
+    "nombre": "Abyss Flower",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Plant",
+    "nivel": 2,
+    "atk": 750,
+    "defensa": 400,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 580,
+    "nombre": "Patrol Robo",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Machine",
+    "nivel": 3,
+    "atk": 1100,
+    "defensa": 900,
+    "estrellas_guardianas": [
+      "Moon",
+      "Uranus"
+    ]
+  },
+  {
+    "numero": 581,
+    "nombre": "Takuhee",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Winged Beast",
+    "nivel": 4,
+    "atk": 1450,
+    "defensa": 1000,
+    "estrellas_guardianas": [
+      "Saturn",
+      "Sun"
+    ]
+  },
+  {
+    "numero": 582,
+    "nombre": "Dark Witch",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fairy",
+    "nivel": 5,
+    "atk": 1800,
+    "defensa": 1700,
+    "estrellas_guardianas": [
+      "Sun",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 583,
+    "nombre": "Weather Report",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 4,
+    "atk": 950,
+    "defensa": 1500,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 584,
+    "nombre": "Binding Chain",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fairy",
+    "nivel": 3,
+    "atk": 1000,
+    "defensa": 1100,
+    "estrellas_guardianas": [
+      "Sun",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 585,
+    "nombre": "Mechanical Snail",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Machine",
+    "nivel": 3,
+    "atk": 800,
+    "defensa": 1000,
+    "estrellas_guardianas": [
+      "Moon",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 586,
+    "nombre": "Greenkappa",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 3,
+    "atk": 650,
+    "defensa": 900,
+    "estrellas_guardianas": [
+      "Moon",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 587,
+    "nombre": "Mon Larvas",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Beast",
+    "nivel": 4,
+    "atk": 1300,
+    "defensa": 1400,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 588,
+    "nombre": "Living Vase",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Plant",
+    "nivel": 3,
+    "atk": 900,
+    "defensa": 1100,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Uranus"
+    ]
+  },
+  {
+    "numero": 589,
+    "nombre": "Tentacle Plant",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Plant",
+    "nivel": 2,
+    "atk": 500,
+    "defensa": 600,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 590,
+    "nombre": "Beaked Snake",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Reptile",
+    "nivel": 3,
+    "atk": 800,
+    "defensa": 900,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 591,
+    "nombre": "Morphing Jar",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Rock",
+    "nivel": 2,
+    "atk": 700,
+    "defensa": 600,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 592,
+    "nombre": "Muse-A",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fairy",
+    "nivel": 3,
+    "atk": 850,
+    "defensa": 900,
+    "estrellas_guardianas": [
+      "Sun",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 593,
+    "nombre": "Giant Turtle Who Feeds on Flames",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 5,
+    "atk": 1400,
+    "defensa": 1800,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 594,
+    "nombre": "Rose Spectre of Dunn",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Plant",
+    "nivel": 6,
+    "atk": 2000,
+    "defensa": 1800,
+    "estrellas_guardianas": [
+      "Moon",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 595,
+    "nombre": "Fiend Refrection 1",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Winged Beast",
+    "nivel": 4,
+    "atk": 1300,
+    "defensa": 1400,
+    "estrellas_guardianas": [
+      "Venus",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 596,
+    "nombre": "Ghoul with an Appetite",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Zombie",
+    "nivel": 4,
+    "atk": 1600,
+    "defensa": 1200,
+    "estrellas_guardianas": [
+      "Moon",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 597,
+    "nombre": "Pale Beast",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Beast",
+    "nivel": 4,
+    "atk": 1500,
+    "defensa": 1200,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 598,
+    "nombre": "Little Chimera",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Beast",
+    "nivel": 2,
+    "atk": 600,
+    "defensa": 550,
+    "estrellas_guardianas": [
+      "Saturn",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 599,
+    "nombre": "Violent Rain",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 4,
+    "atk": 1550,
+    "defensa": 800,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 600,
+    "nombre": "Key Mace 2",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 4,
+    "atk": 1050,
+    "defensa": 1200,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 601,
+    "nombre": "Tenderness",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fairy",
+    "nivel": 3,
+    "atk": 700,
+    "defensa": 1400,
+    "estrellas_guardianas": [
+      "Sun",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 602,
+    "nombre": "Penguin Soldier",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 2,
+    "atk": 750,
+    "defensa": 500,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 603,
+    "nombre": "Fairy Dragon",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Dragon",
+    "nivel": 4,
+    "atk": 1100,
+    "defensa": 1200,
+    "estrellas_guardianas": [
+      "Sun",
+      "Saturn"
+    ]
+  },
+  {
+    "numero": 604,
+    "nombre": "Obese Marmot of Nefariousness",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Beast",
+    "nivel": 3,
+    "atk": 750,
+    "defensa": 800,
+    "estrellas_guardianas": [
+      "Moon",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 605,
+    "nombre": "Liquid Beast",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 3,
+    "atk": 950,
+    "defensa": 800,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Saturn"
+    ]
+  },
+  {
+    "numero": 606,
+    "nombre": "Twin Long Rods 2",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 3,
+    "atk": 850,
+    "defensa": 700,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Sun"
+    ]
+  },
+  {
+    "numero": 607,
+    "nombre": "Great Bill",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Beast",
+    "nivel": 4,
+    "atk": 1250,
+    "defensa": 1300,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Sun"
+    ]
+  },
+  {
+    "numero": 608,
+    "nombre": "Shining Friendship",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fairy",
+    "nivel": 4,
+    "atk": 1300,
+    "defensa": 1100,
+    "estrellas_guardianas": [
+      "Sun",
+      "Uranus"
+    ]
+  },
+  {
+    "numero": 609,
+    "nombre": "Bladefly",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Insect",
+    "nivel": 2,
+    "atk": 600,
+    "defensa": 700,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 610,
+    "nombre": "Electric Lizard",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Thunder",
+    "nivel": 3,
+    "atk": 850,
+    "defensa": 800,
+    "estrellas_guardianas": [
+      "Pluto",
+      "Sun"
+    ]
+  },
+  {
+    "numero": 611,
+    "nombre": "Hiro's Shadow Scout",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 2,
+    "atk": 650,
+    "defensa": 500,
+    "estrellas_guardianas": [
+      "Moon",
+      "Saturn"
+    ]
+  },
+  {
+    "numero": 612,
+    "nombre": "Lady of Faith",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Spellcaster",
+    "nivel": 3,
+    "atk": 1100,
+    "defensa": 800,
+    "estrellas_guardianas": [
+      "Sun",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 613,
+    "nombre": "Twin-headed Thunder Dragon",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Thunder",
+    "nivel": 7,
+    "atk": 2800,
+    "defensa": 2100,
+    "estrellas_guardianas": [
+      "Pluto",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 614,
+    "nombre": "Hunter Spider",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Insect",
+    "nivel": 5,
+    "atk": 1600,
+    "defensa": 1400,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 615,
+    "nombre": "Armored Starfish",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 4,
+    "atk": 850,
+    "defensa": 1400,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 616,
+    "nombre": "Hourglass of Courage",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fairy",
+    "nivel": 4,
+    "atk": 1100,
+    "defensa": 1200,
+    "estrellas_guardianas": [
+      "Sun",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 617,
+    "nombre": "Marine Beast",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fish",
+    "nivel": 5,
+    "atk": 1700,
+    "defensa": 1600,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 618,
+    "nombre": "Warrior of Tradition",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 6,
+    "atk": 1900,
+    "defensa": 1700,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 619,
+    "nombre": "Rock Spirit",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Spellcaster",
+    "nivel": 5,
+    "atk": 1650,
+    "defensa": 1900,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 620,
+    "nombre": "Snakeyashi",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Plant",
+    "nivel": 4,
+    "atk": 1000,
+    "defensa": 1200,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 621,
+    "nombre": "Succubus Knight",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 5,
+    "atk": 1650,
+    "defensa": 1300,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 622,
+    "nombre": "Ill Witch",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Spellcaster",
+    "nivel": 5,
+    "atk": 1600,
+    "defensa": 1500,
+    "estrellas_guardianas": [
+      "Sun",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 623,
+    "nombre": "The Thing That Hides In the Mud",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Rock",
+    "nivel": 4,
+    "atk": 1200,
+    "defensa": 1300,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 624,
+    "nombre": "High Tide Gyojin",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 4,
+    "atk": 1650,
+    "defensa": 1300,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 625,
+    "nombre": "Fairy of the Fountain",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 4,
+    "atk": 1600,
+    "defensa": 1100,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 626,
+    "nombre": "Amazon of the Seas",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fish",
+    "nivel": 4,
+    "atk": 1300,
+    "defensa": 1400,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 627,
+    "nombre": "Nekogal 2",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Beast-Warrior",
+    "nivel": 6,
+    "atk": 1900,
+    "defensa": 2000,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Uranus"
+    ]
+  },
+  {
+    "numero": 628,
+    "nombre": "Witch's Apprentice",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Spellcaster",
+    "nivel": 2,
+    "atk": 550,
+    "defensa": 500,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Saturn"
+    ]
+  },
+  {
+    "numero": 629,
+    "nombre": "Armored Rat",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Beast",
+    "nivel": 3,
+    "atk": 950,
+    "defensa": 1100,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 630,
+    "nombre": "Ancient Lizard Warrior",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Reptile",
+    "nivel": 4,
+    "atk": 1400,
+    "defensa": 1100,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Saturn"
+    ]
+  },
+  {
+    "numero": 631,
+    "nombre": "Maiden of the Moonlight",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Spellcaster",
+    "nivel": 4,
+    "atk": 1500,
+    "defensa": 1300,
+    "estrellas_guardianas": [
+      "Moon",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 632,
+    "nombre": "Stone Ogre Grotto",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Rock",
+    "nivel": 5,
+    "atk": 1600,
+    "defensa": 1500,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Sun"
+    ]
+  },
+  {
+    "numero": 633,
+    "nombre": "Winged Egg of New Life",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fairy",
+    "nivel": 5,
+    "atk": 1400,
+    "defensa": 1700,
+    "estrellas_guardianas": [
+      "Sun",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 634,
+    "nombre": "Night Lizard",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 4,
+    "atk": 1150,
+    "defensa": 1300,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 635,
+    "nombre": "Queen's Double",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 1,
+    "atk": 350,
+    "defensa": 300,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 636,
+    "nombre": "Blue-winged Crown",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Winged Beast",
+    "nivel": 4,
+    "atk": 1600,
+    "defensa": 1200,
+    "estrellas_guardianas": [
+      "Saturn",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 637,
+    "nombre": "Trent",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Plant",
+    "nivel": 5,
+    "atk": 1500,
+    "defensa": 1800,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Sun"
+    ]
+  },
+  {
+    "numero": 638,
+    "nombre": "Queen of Autumn Leaves",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Plant",
+    "nivel": 5,
+    "atk": 1800,
+    "defensa": 1500,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 639,
+    "nombre": "Amphibious Bugroth",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 5,
+    "atk": 1850,
+    "defensa": 1300,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Sun"
+    ]
+  },
+  {
+    "numero": 640,
+    "nombre": "Acid Crawler",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Insect",
+    "nivel": 3,
+    "atk": 900,
+    "defensa": 700,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 641,
+    "nombre": "Invader of the Throne",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 4,
+    "atk": 1350,
+    "defensa": 1700,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 642,
+    "nombre": "Mystical Sheep 1",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Beast",
+    "nivel": 3,
+    "atk": 1150,
+    "defensa": 900,
+    "estrellas_guardianas": [
+      "Venus",
+      "Saturn"
+    ]
+  },
+  {
+    "numero": 643,
+    "nombre": "Disk Magician",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Machine",
+    "nivel": 4,
+    "atk": 1350,
+    "defensa": 1000,
+    "estrellas_guardianas": [
+      "Moon",
+      "Uranus"
+    ]
+  },
+  {
+    "numero": 644,
+    "nombre": "Flame Viper",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Pyro",
+    "nivel": 2,
+    "atk": 400,
+    "defensa": 450,
+    "estrellas_guardianas": [
+      "Mars",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 645,
+    "nombre": "Royal Guard",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Machine",
+    "nivel": 6,
+    "atk": 1900,
+    "defensa": 2200,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 646,
+    "nombre": "Gruesome Goo",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 3,
+    "atk": 1300,
+    "defensa": 700,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 647,
+    "nombre": "Hyosube",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 4,
+    "atk": 1500,
+    "defensa": 900,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Venus"
+    ]
+  },
+  {
+    "numero": 648,
+    "nombre": "Machine Attacker",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Machine",
+    "nivel": 5,
+    "atk": 1600,
+    "defensa": 1300,
+    "estrellas_guardianas": [
+      "Moon",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 649,
+    "nombre": "Hibikime",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 4,
+    "atk": 1450,
+    "defensa": 1000,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Uranus"
+    ]
+  },
+  {
+    "numero": 650,
+    "nombre": "Whiptail Crow",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 5,
+    "atk": 1650,
+    "defensa": 1600,
+    "estrellas_guardianas": [
+      "Moon",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 651,
+    "nombre": "Kunai with Chain",
+    "tipo_carta": "Equip Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 652,
+    "nombre": "Magical Labyrinth",
+    "tipo_carta": "Equip Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 653,
+    "nombre": "Warrior Elimination",
+    "tipo_carta": "Spell Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 654,
+    "nombre": "Salamandra",
+    "tipo_carta": "Equip Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 655,
+    "nombre": "Cursebreaker",
+    "tipo_carta": "Spell Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 656,
+    "nombre": "Eternal Rest",
+    "tipo_carta": "Spell Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 657,
+    "nombre": "Megamorph",
+    "tipo_carta": "Equip Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 658,
+    "nombre": "Metalmorph",
+    "tipo_carta": "Equip Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 659,
+    "nombre": "Winged Trumpeter",
+    "tipo_carta": "Equip Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 660,
+    "nombre": "Stain Storm",
+    "tipo_carta": "Spell Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 661,
+    "nombre": "Crush Card",
+    "tipo_carta": "Spell Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 662,
+    "nombre": "Eradicating Aerosol",
+    "tipo_carta": "Spell Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 663,
+    "nombre": "Breath of Light",
+    "tipo_carta": "Spell Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 664,
+    "nombre": "Eternal Draught",
+    "tipo_carta": "Spell Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 665,
+    "nombre": "Curse of Millennium Shield",
+    "tipo_carta": "Ritual Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 666,
+    "nombre": "Yamadron Ritual",
+    "tipo_carta": "Ritual Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 667,
+    "nombre": "Gate Guardian Ritual",
+    "tipo_carta": "Ritual Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 668,
+    "nombre": "Bright Castle",
+    "tipo_carta": "Equip Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 669,
+    "nombre": "Shadow Spell",
+    "tipo_carta": "Spell Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 670,
+    "nombre": "Black Luster Ritual",
+    "tipo_carta": "Ritual Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 671,
+    "nombre": "Zera Ritual",
+    "tipo_carta": "Ritual Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 672,
+    "nombre": "Harpie's Feather Duster",
+    "tipo_carta": "Spell Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 673,
+    "nombre": "War-lion Ritual",
+    "tipo_carta": "Ritual Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 674,
+    "nombre": "Beastry Mirror Ritual",
+    "tipo_carta": "Ritual Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 675,
+    "nombre": "Ultimate Dragon",
+    "tipo_carta": "Ritual Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 676,
+    "nombre": "Commencement Dance",
+    "tipo_carta": "Ritual Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 677,
+    "nombre": "Hamburger Recipe",
+    "tipo_carta": "Ritual Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 678,
+    "nombre": "Revival of Sennen Genjin",
+    "tipo_carta": "Ritual Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 679,
+    "nombre": "Novox's Prayer",
+    "tipo_carta": "Ritual Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 680,
+    "nombre": "Curse of Tri-Horned Dragon",
+    "tipo_carta": "Ritual Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 681,
+    "nombre": "House of Adhesive Tape",
+    "tipo_carta": "Trap Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 682,
+    "nombre": "Eatgaboon",
+    "tipo_carta": "Trap Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 683,
+    "nombre": "Bear Trap",
+    "tipo_carta": "Trap Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 684,
+    "nombre": "Invisible Wire",
+    "tipo_carta": "Trap Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 685,
+    "nombre": "Acid Trap Hole",
+    "tipo_carta": "Trap Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 686,
+    "nombre": "Widespread Ruin",
+    "tipo_carta": "Trap Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 687,
+    "nombre": "Goblin Fan",
+    "tipo_carta": "Trap Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 688,
+    "nombre": "Bad Reaction to Simochi",
+    "tipo_carta": "Trap Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 689,
+    "nombre": "Reverse Trap",
+    "tipo_carta": "Trap Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 690,
+    "nombre": "Fake Trap",
+    "tipo_carta": "Trap Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 691,
+    "nombre": "Revived of Serpent Night Dragon",
+    "tipo_carta": "Ritual Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 692,
+    "nombre": "Turtle Oath",
+    "tipo_carta": "Ritual Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 693,
+    "nombre": "Contruct of Mask",
+    "tipo_carta": "Ritual Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 694,
+    "nombre": "Resurrection of Chakra",
+    "tipo_carta": "Ritual Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 695,
+    "nombre": "Puppet Ritual",
+    "tipo_carta": "Ritual Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 696,
+    "nombre": "Javelin Beetle Pact",
+    "tipo_carta": "Ritual Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 697,
+    "nombre": "Garma Sword Oath",
+    "tipo_carta": "Ritual Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 698,
+    "nombre": "Cosmo Queen's Prayer",
+    "tipo_carta": "Ritual Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 699,
+    "nombre": "Revival of Skeleton Rider",
+    "tipo_carta": "Ritual Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 700,
+    "nombre": "Fortress Whale's Oath",
+    "tipo_carta": "Ritual Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 701,
+    "nombre": "Performance of Sword",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 6,
+    "atk": 1950,
+    "defensa": 1850,
+    "estrellas_guardianas": [
+      "Sun",
+      "Saturn"
+    ]
+  },
+  {
+    "numero": 702,
+    "nombre": "Hungry Burger",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 6,
+    "atk": 2000,
+    "defensa": 1850,
+    "estrellas_guardianas": [
+      "Moon",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 703,
+    "nombre": "Sengenjin",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Beast-Warrior",
+    "nivel": 8,
+    "atk": 2750,
+    "defensa": 2500,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Mercury"
+    ]
+  },
+  {
+    "numero": 704,
+    "nombre": "Skull Guardian",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 7,
+    "atk": 2050,
+    "defensa": 2500,
+    "estrellas_guardianas": [
+      "Sun",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 705,
+    "nombre": "Tri-horned Dragon",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Dragon",
+    "nivel": 8,
+    "atk": 2850,
+    "defensa": 2350,
+    "estrellas_guardianas": [
+      "Moon",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 706,
+    "nombre": "Serpent Night Dragon",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Dragon",
+    "nivel": 7,
+    "atk": 2350,
+    "defensa": 2400,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 707,
+    "nombre": "Skull Knight",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Spellcaster",
+    "nivel": 7,
+    "atk": 2650,
+    "defensa": 2250,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 708,
+    "nombre": "Cosmo Queen",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Spellcaster",
+    "nivel": 8,
+    "atk": 2900,
+    "defensa": 2450,
+    "estrellas_guardianas": [
+      "Venus",
+      "Uranus"
+    ]
+  },
+  {
+    "numero": 709,
+    "nombre": "Chakra",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 7,
+    "atk": 2450,
+    "defensa": 2000,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 710,
+    "nombre": "Crab Turtle",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Aqua",
+    "nivel": 8,
+    "atk": 2550,
+    "defensa": 2500,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Jupiter"
+    ]
+  },
+  {
+    "numero": 711,
+    "nombre": "Mikazukinoyaiba",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Dragon",
+    "nivel": 7,
+    "atk": 2200,
+    "defensa": 2350,
+    "estrellas_guardianas": [
+      "Sun",
+      "Uranus"
+    ]
+  },
+  {
+    "numero": 712,
+    "nombre": "Meteor Dragon",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Dragon",
+    "nivel": 6,
+    "atk": 1800,
+    "defensa": 2000,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Neptune"
+    ]
+  },
+  {
+    "numero": 713,
+    "nombre": "Meteor B. Dragon",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Dragon",
+    "nivel": 8,
+    "atk": 3500,
+    "defensa": 2000,
+    "estrellas_guardianas": [
+      "Mars",
+      "Sun"
+    ]
+  },
+  {
+    "numero": 714,
+    "nombre": "Firewing Pegasus",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Beast",
+    "nivel": 6,
+    "atk": 2250,
+    "defensa": 1800,
+    "estrellas_guardianas": [
+      "Mars",
+      "Moon"
+    ]
+  },
+  {
+    "numero": 715,
+    "nombre": "Psycho-Puppet",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fiend",
+    "nivel": 7,
+    "atk": 2000,
+    "defensa": 2350,
+    "estrellas_guardianas": [
+      "Moon",
+      "Saturn"
+    ]
+  },
+  {
+    "numero": 716,
+    "nombre": "Garma Sword",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Warrior",
+    "nivel": 7,
+    "atk": 2550,
+    "defensa": 2150,
+    "estrellas_guardianas": [
+      "Moon",
+      "Uranus"
+    ]
+  },
+  {
+    "numero": 717,
+    "nombre": "Javelin Beetle",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Insect",
+    "nivel": 8,
+    "atk": 2450,
+    "defensa": 2550,
+    "estrellas_guardianas": [
+      "Jupiter",
+      "Uranus"
+    ]
+  },
+  {
+    "numero": 718,
+    "nombre": "Fortress Whale",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Fish",
+    "nivel": 7,
+    "atk": 2350,
+    "defensa": 2150,
+    "estrellas_guardianas": [
+      "Neptune",
+      "Saturn"
+    ]
+  },
+  {
+    "numero": 719,
+    "nombre": "Dokurorider",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Zombie",
+    "nivel": 6,
+    "atk": 1900,
+    "defensa": 1850,
+    "estrellas_guardianas": [
+      "Uranus",
+      "Mars"
+    ]
+  },
+  {
+    "numero": 720,
+    "nombre": "Mask of Shine & Dark",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Spellcaster",
+    "nivel": 6,
+    "atk": 2000,
+    "defensa": 1800,
+    "estrellas_guardianas": [
+      "Venus",
+      "Pluto"
+    ]
+  },
+  {
+    "numero": 721,
+    "nombre": "Dark Magic Ritual",
+    "tipo_carta": "Ritual Card",
+    "tipo_monstruo": null,
+    "nivel": null,
+    "atk": null,
+    "defensa": null,
+    "estrellas_guardianas": []
+  },
+  {
+    "numero": 722,
+    "nombre": "Magician of Black Chaos",
+    "tipo_carta": "Monster Card",
+    "tipo_monstruo": "Spellcaster",
+    "nivel": 8,
+    "atk": 2800,
+    "defensa": 2600,
+    "estrellas_guardianas": [
+      "Mercury",
+      "Mars"
+    ]
+  }
+]
