@@ -1,0 +1,63 @@
+name: Compilar APK de Android
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar el repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Instalar dependencias
+        run: npm install
+
+      - name: Agregar o actualizar la plataforma Android
+        run: |
+          npx cap --version
+          cat capacitor.config.json
+          if [ ! -d "android" ]; then
+            npx cap add android
+          else
+            npx cap sync android
+          fi
+
+      - name: Configurar Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 21
+
+      - name: Reutilizar siempre la misma llave de firma (debug keystore)
+        uses: actions/cache@v4
+        with:
+          path: ~/.android/debug.keystore
+          key: android-debug-keystore-duelofm
+
+      - name: Configurar Android SDK
+        uses: android-actions/setup-android@v3
+        with:
+          packages: ''
+
+      - name: Dar permisos de ejecucion a gradlew
+        working-directory: android
+        run: chmod +x gradlew
+
+      - name: Compilar APK (version de prueba)
+        working-directory: android
+        run: ./gradlew assembleDebug
+
+      - name: Subir el APK como descarga
+        uses: actions/upload-artifact@v4
+        with:
+          name: DueloFM-apk-prueba
+          path: android/app/build/outputs/apk/debug/app-debug.apk
+          
