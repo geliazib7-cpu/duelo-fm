@@ -1,0 +1,6 @@
+{
+  "appId": "com.ygoduelo.app",
+  "appName": "Duelo FM",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}

@@ -1,0 +1,17 @@
+{
+  "name": "ygo-forbidden-memories-ar",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Recreacion de Yu-Gi-Oh! Forbidden Memories: historia en pantalla plana + duelos AR entre amigos.",
+  "scripts": {
+    "sync": "cap sync android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.0.0",
+    "@capacitor/core": "^6.0.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.0.0",
+    "esbuild": "^0.21.0"
+  }
+}
