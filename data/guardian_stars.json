@@ -1,0 +1,21 @@
+{
+  "_fuente": "Mecanica real del juego original (Yu-Gi-Oh! Forbidden Memories, PS1), confirmada via Yugipedia y guia oocities.org/ygofm/20rules.htm",
+  "bono_ventaja": 500,
+  "_regla": "Si el monstruo atacante/defensor tiene una Estrella Guardiana que es 'fuerte contra' la Estrella Guardiana elegida por el rival, recibe +500 ATK y +500 DEF solo para ese combate.",
+  "ciclo_lunar": {
+    "_descripcion": "Ciclo de 4 estrellas",
+    "Sun":     { "alineacion": "Light",  "fuerte_contra": "Moon",    "debil_contra": "Mercury" },
+    "Mercury": { "alineacion": "Dark",   "fuerte_contra": "Sun",     "debil_contra": "Venus" },
+    "Venus":   { "alineacion": "Dreams", "fuerte_contra": "Mercury", "debil_contra": "Moon" },
+    "Moon":    { "alineacion": "Fiend",  "fuerte_contra": "Venus",   "debil_contra": "Sun" }
+  },
+  "ciclo_planetario": {
+    "_descripcion": "Ciclo de 6 estrellas",
+    "Mars":    { "alineacion": "Fire",   "fuerte_contra": "Jupiter", "debil_contra": "Neptune" },
+    "Jupiter": { "alineacion": "Forest", "fuerte_contra": "Saturn",  "debil_contra": "Mars" },
+    "Saturn":  { "alineacion": "Wind",   "fuerte_contra": "Uranus",  "debil_contra": "Jupiter" },
+    "Uranus":  { "alineacion": "Earth",  "fuerte_contra": "Pluto",   "debil_contra": "Saturn" },
+    "Pluto":   { "alineacion": "Thunder","fuerte_contra": "Neptune", "debil_contra": "Uranus" },
+    "Neptune": { "alineacion": "Water",  "fuerte_contra": "Mars",    "debil_contra": "Pluto" }
+  }
+}
