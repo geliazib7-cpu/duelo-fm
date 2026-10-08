@@ -1,0 +1,49 @@
+{
+  "_fuente": "Orden real de duelistas del modo historia del juego original de PS1 (Yu-Gi-Oh! Forbidden Memories), confirmado por investigacion previa.",
+  "_nota": "Los campos 'suelta_carta' quedan pendientes de precisar carta por carta (tabla de probabilidades exacta no extraida todavia). Por ahora solo se guarda el ORDEN y la obligatoriedad.",
+  "arcos": [
+    {
+      "arco": 1,
+      "nombre": "Prologo - Antiguo Egipto",
+      "duelos": [
+        { "rival": "Simon Muran", "obligatorio": false, "nota": "Opcional si regresas al palacio antes del festival" },
+        { "rival": "Jono", "obligatorio": false, "nota": "Duelo opcional en el Terreno de Duelos" },
+        { "rival": "Teana", "obligatorio": false, "nota": "Duelo opcional en el Terreno de Duelos" },
+        { "rival": "Aldeano 1", "obligatorio": false },
+        { "rival": "Aldeano 2", "obligatorio": false },
+        { "rival": "Aldeano 3", "obligatorio": false },
+        { "rival": "Seto (1er duelo)", "obligatorio": true, "nota": "Hay que PERDER este duelo para avanzar la historia" }
+      ]
+    },
+    {
+      "arco": 2,
+      "nombre": "Era moderna / Torneo",
+      "duelos": [
+        { "rival": "Rex Raptor", "obligatorio": true },
+        { "rival": "Weevil Underwood", "obligatorio": true },
+        { "rival": "Mai Valentine", "obligatorio": true },
+        { "rival": "Bandit Keith", "obligatorio": true },
+        { "rival": "Shadi", "obligatorio": true },
+        { "rival": "Yami Bakura", "obligatorio": true },
+        { "rival": "Pegasus", "obligatorio": true },
+        { "rival": "Ishizu", "obligatorio": true },
+        { "rival": "Kaiba", "obligatorio": true }
+      ],
+      "nota": "Al terminar este arco se abre el modo 'sandbox': los sacerdotes rebeldes del arco 3 se pueden retar en cualquier orden."
+    },
+    {
+      "arco": 3,
+      "nombre": "Regreso al Antiguo Egipto - Final",
+      "duelos": [
+        { "rival": "Seto (2do duelo)", "obligatorio": true, "nota": "Cruzando el laberinto para rescatar a Teana" },
+        { "rival": "Los 6 Altos Magos guardianes de los Objetos del Milenio", "obligatorio": true, "nota": "Cada uno protegido primero por su propio guardia personal; orden libre" },
+        { "rival": "Heishin", "obligatorio": true, "nota": "Santuario Oscuro" },
+        { "rival": "Sebek", "obligatorio": true, "nota": "Guardian legendario" },
+        { "rival": "Neku", "obligatorio": true, "nota": "Guardian legendario" },
+        { "rival": "Seto (3er duelo)", "obligatorio": true },
+        { "rival": "DarkNite", "obligatorio": true },
+        { "rival": "Nitemare (final, se pelea 2 veces)", "obligatorio": true }
+      ]
+    }
+  ]
+}
