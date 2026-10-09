@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<title>Historia - Duelo FM</title>
+<link rel="stylesheet" href="style.css" />
+<style>
+  .carta.bloqueado { opacity: 0.4; }
+  .carta.completado { border-left: 3px solid #4caf50; padding-left: 9px; }
+  .carta.disponible { border-left: 3px solid var(--dorado); padding-left: 9px; }
+  .etiqueta { font-size: 11px; padding: 3px 8px; border-radius: 12px; }
+  .etiqueta.disponible { background: var(--dorado); color: #1b1f2a; }
+  .etiqueta.completado { background: #4caf50; color: #0f1219; }
+  .etiqueta.bloqueado { background: #333a4a; color: var(--texto-tenue); }
+</style>
+</head>
+<body>
+<div class="contenedor">
+  <div class="titulo-app">Modo Historia</div>
+  <div id="listaArcos"></div>
+  <button class="secundario" onclick="location.href='coleccion.html'">Ver mi coleccion</button>
+</div>
+
+<script type="module" src="firebase-config.js"></script>
+<script type="module">
+import { db } from "./firebase-config.js";
+import { ref, get } from "https://www.gstatic.com/firebasejs/9.22.0/firebase-database.js";
+import { cargarJSON } from "./utils.js";
+
+const uid = localStorage.getItem("ygo_uid");
+if (!uid) window.location.href = "index.html";
+
+const datos = await cargarJSON("data/duelistas_historia.json");
+const snapUsuario = await get(ref(db, `usuarios/${uid}`));
+const progreso = (snapUsuario.val() && snapUsuario.val().progresoHistoria) || { arco: 1, indice: 0 };
+
+const contenedor = document.getElementById("listaArcos");
+
+for (const arco of datos.arcos) {
+  const panel = document.createElement("div");
+  panel.className = "panel";
+  const titulo = document.createElement("h3");
+  titulo.textContent = `Arco ${arco.arco}: ${arco.nombre}`;
+  panel.appendChild(titulo);
+
+  arco.duelos.forEach((duelo, i) => {
+    const esArcoActual = arco.arco === progreso.arco;
+    const esArcoAnterior = arco.arco < progreso.arco;
+    const completado = esArcoAnterior || (esArcoActual && i < progreso.indice);
+    const disponible = esArcoActual && i === progreso.indice;
+    const bloqueado = !completado && !disponible;
+
+    const fila = document.createElement("div");
+    fila.className = "carta " + (completado ? "completado" : disponible ? "disponible" : "bloqueado");
+
+    const etiqueta = completado ? "ganado" : disponible ? "disponible" : "bloqueado";
+    const etiquetaClase = completado ? "completado" : disponible ? "disponible" : "bloqueado";
+
+    fila.innerHTML = `
+      <span>${duelo.rival}${duelo.nota ? '<br><span style="font-size:11px;color:var(--texto-tenue);">' + duelo.nota + "</span>" : ""}</span>
+      <span class="etiqueta ${etiquetaClase}">${etiqueta}</span>
+    `;
+
+    if (disponible) {
+      fila.style.cursor = "pointer";
+      fila.addEventListener("click", () => {
+        const url = `duelo.html?rival=${encodeURIComponent(duelo.rival)}&arco=${arco.arco}&indice=${i}`;
+        window.location.href = url;
+      });
+    }
+
+    panel.appendChild(fila);
+  });
+
+  contenedor.appendChild(panel);
+}
+</script>
+</body>
+</html>
