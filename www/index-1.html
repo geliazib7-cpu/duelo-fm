@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<title>Duelo FM</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<div id="cajaErrorGlobal" style="display:none;position:fixed;top:0;left:0;right:0;z-index:9999;background:#c0392b;color:#fff;padding:12px;font-size:13px;white-space:pre-wrap;word-break:break-word;"></div>
+<script>
+  // Atrapa-errores global: muestra en pantalla CUALQUIER error, incluso si
+  // truena antes de que corra nuestro propio codigo (por ejemplo, al
+  // conectar con Firebase). Sin esto, en el telefono los errores se pierden
+  // porque no hay consola visible como en una computadora.
+  function mostrarErrorGlobal(texto) {
+    var caja = document.getElementById("cajaErrorGlobal");
+    caja.style.display = "block";
+    caja.textContent = "Error de la app: " + texto;
+  }
+  window.addEventListener("error", function (ev) {
+    mostrarErrorGlobal((ev.message || "error") + " (" + (ev.filename || "") + ":" + (ev.lineno || "") + ")");
+  });
+  window.addEventListener("unhandledrejection", function (ev) {
+    var razon = ev.reason;
+    mostrarErrorGlobal(razon && razon.message ? razon.message : String(razon));
+  });
+</script>
+<div class="contenedor">
+  <div class="titulo-app">⚔ DUELO FM</div>
+
+  <div class="panel" id="panelIngresar">
+    <h3>Entrar</h3>
+    <input type="email" id="correoIngresar" placeholder="Correo" autocomplete="username" />
+    <input type="password" id="claveIngresar" placeholder="Contrasena" autocomplete="current-password" />
+    <button id="btnIngresar">Entrar</button>
+    <div class="mensaje-error" id="errorIngresar"></div>
+  </div>
+
+  <div class="panel" id="panelRegistrar">
+    <h3>Crear cuenta</h3>
+    <input type="text" id="nombreRegistrar" placeholder="Tu nombre" />
+    <input type="email" id="correoRegistrar" placeholder="Correo (gmail, hotmail, etc.)" autocomplete="username" />
+    <input type="password" id="claveRegistrar" placeholder="Contrasena" autocomplete="new-password" />
+    <button class="secundario" id="btnRegistrar">Crear cuenta</button>
+    <div class="mensaje-error" id="errorRegistrar"></div>
+  </div>
+
+  <p style="text-align:center;color:var(--texto-tenue);font-size:12px;">version 0.1 - fase 1 (pantalla plana)</p>
+</div>
+
+<script type="module" src="firebase-config.js"></script>
+<script type="module" src="script.js"></script>
+</body>
+</html>
