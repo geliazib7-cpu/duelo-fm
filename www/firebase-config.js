@@ -1,3 +1,4 @@
+// Configuracion de Firebase - mismo patron que DogMy.
 // Reemplaza estos valores con los de tu propio proyecto de Firebase
 // (Firebase console -> Configuracion del proyecto -> tus apps -> SDK config).
 // Puedes usar el MISMO proyecto de Firebase de DogMy o uno nuevo; se
@@ -19,5 +20,5 @@ const firebaseConfig = {
   appId: "1:7981774387:web:e1f42e187e7661fd185546",
 };
 
-export const app = initializeApp(firebaseConfig);
-export const db = getDatabase(app);
+let app, db;
+try {
