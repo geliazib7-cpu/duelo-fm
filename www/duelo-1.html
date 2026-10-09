@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<title>Duelo - Duelo FM</title>
+<link rel="stylesheet" href="style.css" />
+<style>
+  body { background: #0a0c12; }
+  .zona-rival, .zona-jugador { padding: 10px 12px; }
+  .barra-lp { display:flex; justify-content:space-between; align-items:center; margin-bottom:8px; font-weight:bold; }
+  .barra-lp .lp-rival { color: #e67e22; }
+  .barra-lp .lp-jugador { color: #d4af37; }
+  .campo { display:flex; gap:8px; min-height:74px; flex-wrap:wrap; padding:6px 0; }
+  .carta-campo {
+    width: 84px; background:#1b1f2a; border:2px solid #333a4a; border-radius:8px;
+    padding:6px; font-size:11px; text-align:center; cursor:pointer;
+  }
+  .carta-campo.seleccionada { border-color:#d4af37; }
+  .carta-campo .nombre { font-weight:bold; margin-bottom:2px; }
+  .carta-campo .defensa { color:#7fb3e8; }
+
+  .arte-carta {
+    width: 100%; height: 44px; border-radius: 5px; overflow: hidden;
+    background: #11141c; display:flex; align-items:center; justify-content:center;
+    font-size: 22px; margin-bottom: 4px;
+  }
+  .arte-carta img { width:100%; height:100%; object-fit:cover; }
+
+  /* Animacion de destruccion al perder un combate: un flash y luego se
+     deshace la carta, como en el juego original. */
+  @keyframes destruirCarta {
+    0%   { opacity:1; transform:scale(1) rotate(0deg); filter:brightness(1); }
+    35%  { opacity:1; transform:scale(1.18) rotate(-8deg); filter:brightness(2.2) saturate(2); }
+    100% { opacity:0; transform:scale(0.15) rotate(18deg); filter:brightness(0.2); }
+  }
+  .carta-campo.destruida { animation: destruirCarta 0.48s ease-in forwards; pointer-events:none; }
+  .mano { display:flex; gap:8px; overflow-x:auto; padding:8px 0; }
+  .carta-mano {
+    min-width: 90px; background:#1b1f2a; border:2px solid #333a4a; border-radius:8px;
+    padding:6px; font-size:11px; text-align:center; cursor:pointer; flex-shrink:0;
+  }
+  .carta-mano.seleccionada { border-color:#d4af37; }
+  .log { background:#05070a; border-radius:8px; padding:8px 10px; font-size:12px; color:#9aa0ad; max-height:110px; overflow-y:auto; margin:10px 0; }
+  .botonera { display:flex; gap:8px; margin-top:8px; }
+  .botonera button { flex:1; padding:10px; font-size:13px; }
+  .separador { border-top:1px solid #333a4a; margin: 10px 0; }
+  #overlayFin { display:none; position:fixed; inset:0; background:rgba(0,0,0,.85); z-index:999; align-items:center; justify-content:center; flex-direction:column; text-align:center; padding:20px; }
+  #overlayFin h2 { color:var(--dorado); font-size:28px; }
+</style>
+</head>
+<body>
+
+<div class="zona-rival">
+  <div class="barra-lp"><span class="lp-rival" id="lpRival">Rival: 8000 LP</span><span id="nombreRival">Rival</span></div>
+  <div class="campo" id="campoRival"></div>
+</div>
+
+<div class="separador"></div>
+<div class="log" id="log"></div>
+<div class="separador"></div>
+
+<div class="zona-jugador">
+  <div class="campo" id="campoJugador"></div>
+  <div class="barra-lp"><span class="lp-jugador" id="lpJugador">Tu: 8000 LP</span><span id="indicadorTurno">Tu turno</span></div>
+  <div class="mano" id="mano"></div>
+  <div class="botonera">
+    <button class="secundario" id="btnColocar">Colocar carta</button>
+    <button id="btnAtacar">Atacar</button>
+    <button class="secundario" id="btnTerminar">Terminar turno</button>
+  </div>
+  <div id="ayuda" style="font-size:12px;color:var(--texto-tenue);margin-top:6px;"></div>
+</div>
+
+<div id="overlayFin">
+  <h2 id="tituloFin"></h2>
+  <p id="mensajeFin" style="color:var(--texto-tenue);"></p>
+  <button id="btnVolver" style="max-width:260px;margin-top:16px;">Volver a la historia</button>
+</div>
+
+<script type="module" src="firebase-config.js"></script>
+<script type="module" src="duelo-ui.js"></script>
+</body>
+</html>
